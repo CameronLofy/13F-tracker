@@ -1,0 +1,199 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Wm1Jo/+8gTYeFRRHbrUHJf1rVRk5I6S40iGiBxeoVkVDzaHUIVPIzZfZ3u8KKK8C
+ jK7jo6b17Jbp7Fjv8ZuGQw==
+
+<SEC-DOCUMENT>0001315863-05-000035.txt : 20050513
+<SEC-HEADER>0001315863-05-000035.hdr.sgml : 20050513
+<ACCEPTANCE-DATETIME>20050513154155
+ACCESSION NUMBER:		0001315863-05-000035
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20050331
+FILED AS OF DATE:		20050513
+DATE AS OF CHANGE:		20050513
+EFFECTIVENESS DATE:		20050513
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		05829030
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>gr105.txt
+<DESCRIPTION>GREENLIGHT 13F 1ST Q 2005
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2005
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Greenlight Capital, Inc.
+Address: 140 East 45th Street
+         24th Floor
+         New York, New York  10017
+
+13F File Number:  28-7484
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      David Einhorn
+Title:     President
+Phone:     212.973.1900
+
+Signature, Place, and Date of Signing:
+
+     David Einhorn     New York, New York     May 13, 2005
+
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+
+
+
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         1
+
+Form13F Information Table Entry Total:     54
+
+Form13F Information Table Value Total:     $1,872,411 (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+No.  13F File Number               Name
+
+
+1    28-                           DME Advisors, L.P.
+<PAGE>
+
+
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+AMERICAN HOME MTG INVT CORP    COM              02660R107    81197  2835100 SH       SOLE                  2835100
+APPLICA INC                    COM              03815A106     2837   560750 SH       SOLE                   560750
+APPLICA INC                    COM              03815A106      478    94450 SH       SOLE    1               94450
+ATARI INC                      COM              04651M105    11013  3485000 SH       SOLE                  3485000
+ATARI INC                      COM              04651M105       81    25712 SH       SOLE    1               25712
+BEAZER HOMES USA INC           COM              07556Q105    74790  1500000 SH       SOLE                  1500000
+BEAZER HOMES USA INC           COM              07556Q105     2737    54900 SH       SOLE    1               54900
+BOSTON COMMUNICATIONS GROUP    COM              100582105     6408   900000 SH       SOLE                   900000
+BOSTON COMMUNICATIONS GROUP    COM              100582105     1693   237800 SH       SOLE    1              237800
+CIRCUIT CITY STORE INC         COM              172737108    49790  3102200 SH       SOLE                  3102200
+CIRCUIT CITY STORE INC         COM              172737108     3817   237800 SH       SOLE    1              237800
+ENERGY CONVERSION DEVICES IN   COM              292659109     3348   147312 SH       SOLE                   147312
+FEDERAL HOME LN MTG CORP       COM              313400301    26860   425000 SH       SOLE                   425000
+FIELDSTONE INVT CORP           COM              31659U300    29492  2031150 SH       SOLE                  2031150
+FIELDSTONE INVT CORP           COM              31659U300     5388   371100 SH       SOLE    1              371100
+FREESCALE SEMICONDUCTOR IN     COM CL A         35687M107   194861 11496250 SH       SOLE                 11496250
+FREESCALE SEMICONDUCTOR IN     COM CL A         35687M107    25251  1489750 SH       SOLE    1             1489750
+FREESCALE SEMICONDUCTOR INC    CL B             35687M206   133515  7740000 SH       SOLE                  7740000
+FREESCALE SEMICONDUCTOR INC    CL B             35687M206      173    10000 SH       SOLE    1               10000
+GEAC COMPUTER LTD              COM              368289104     9944  1109800 SH       SOLE                  1109800
+GEAC COMPUTER LTD              COM              368289104      808    90200 SH       SOLE    1               90200
+GENWORTH FINL INC              COM CL A         37247D106    89591  3255500 SH       SOLE                  3255500
+GENWORTH FINL INC              COM CL A         37247D106     7279   264500 SH       SOLE    1              264500
+GRAFTECH INTL LTD              COM              384313102    10570  1857600 SH       SOLE                  1857600
+GRAFTECH INTL LTD              COM              384313102      810   142400 SH       SOLE    1              142400
+HOSPIRA INC                    COM              441060100   146239  4531717 SH       SOLE                  4531717
+HOSPIRA INC                    COM              441060100    18074   560083 SH       SOLE    1              560083
+IDT CORP                       CL B             448947309    62387  4218200 SH       SOLE                  4218200
+IDT CORP                       CL B             448947309     3430   231900 SH       SOLE    1              231900
+INFOCROSSING INC               COM              45664X109    13481   851100 SH       SOLE                   851100
+INFOCROSSING INC               COM              45664X109     1095    69100 SH       SOLE    1               69100
+INTEROIL CORP                  COM              460951106    39666  1134600 SH       SOLE                  1134600
+INTEROIL CORP                  COM              460951106     3038    86900 SH       SOLE    1               86900
+IPSCO INC                      COM              462622101    61067  1197400 SH       SOLE                  1197400
+IPSCO INC                      COM              462622101     4743    93000 SH       SOLE    1               93000
+M D C HLDGS INC                COM              552676108   207014  2972200 SH       SOLE                  2972200
+M D C HLDGS INC                COM              552676108    15866   227800 SH       SOLE    1              227800
+MERCER INTL INC                SH BEN INT       588056101    23477  2565830 SH       SOLE                  2565830
+MERCER INTL INC                NOTE  8.500%10/1 588056AG6    14197 11000000 PRN      SOLE                 11000000
+MI DEVS INC                    CL A SUB VTG     55304X104   150178  4730000 SH       SOLE                  4730000
+NEW CENTURY FINANCIAL CORP M   COM              6435EV108   174367  3724200 SH       SOLE                  3724200
+NEW CENTURY FINANCIAL CORP M   COM              6435EV108    13362   285400 SH       SOLE    1              285400
+PHH CORP                       COM NEW          693320202    13192   603200 SH       SOLE                   603200
+PHH CORP                       COM NEW          693320202     1024    46800 SH       SOLE    1               46800
+QUANTA CAPITAL HLDGS LTD       SHS              G7313F106     9356  1172450 SH       SOLE                  1172450
+SANDISK CORP                   COM              80004C101    25821   928800 SH       SOLE                   928800
+SANDISK CORP                   COM              80004C101     1979    71200 SH       SOLE    1               71200
+STANDARD MICROSYSTEMS CORP     COM              853626109    12819   738425 SH       SOLE                   738425
+STANDARD MICROSYSTEMS CORP     COM              853626109      983    56600 SH       SOLE    1               56600
+STATE AUTO FINL CORP           COM              855707105    11007   413492 SH       SOLE                   413492
+VIAD CORP                      COM NEW          92552R406     7759   288450 SH       SOLE                   288450
+VIAD CORP                      COM NEW          92552R406      596    22150 SH       SOLE    1               22150
+WASHINGTON GROUP INTL INC      COM NEW          938862208    61861  1375000 SH       SOLE                  1375000
+WASHINGTON GROUP INTL INC      COM NEW          938862208     1602    35600 SH       SOLE    1               35600
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

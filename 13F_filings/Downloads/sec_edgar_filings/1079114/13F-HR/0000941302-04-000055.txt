@@ -1,0 +1,172 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ I5JMvmnGKCMMGISeGFahHdAzm/KspOojK5G9lyQZ3Jej/fxyzZ+4zz/sY6gtB6Dx
+ jqwcfzL4WfCxWxeKs2seqg==
+
+<SEC-DOCUMENT>0000941302-04-000055.txt : 20041115
+<SEC-HEADER>0000941302-04-000055.hdr.sgml : 20041115
+<ACCEPTANCE-DATETIME>20041115100401
+ACCESSION NUMBER:		0000941302-04-000055
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040930
+FILED AS OF DATE:		20041115
+DATE AS OF CHANGE:		20041115
+EFFECTIVENESS DATE:		20041115
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		041142125
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>gr304.txt
+<DESCRIPTION>GREENLIGHT 13F 3RD Q 2004
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2004
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Greenlight Capital, Inc.
+Address: 140 East 45th Street
+         24th Floor
+         New York, New York  10017
+
+13F File Number:  28-7484
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      David Einhorn
+Title:     President
+Phone:     212.973.1900
+
+Signature, Place, and Date of Signing:
+
+     David Einhorn     New York, New York     November 15, 2004
+
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+
+
+
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form13F Information Table Entry Total:     27
+
+Form13F Information Table Value Total:     $1,777,329 (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+
+<PAGE>
+
+
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+AFC ENTERPRISES INC            COM              00104Q107    39600  1800000 SH       SOLE                  1800000
+AMERICAN HOME MTG INVT CORP    COM              02660R107    99614  3564000 SH       SOLE                  3564000
+ATARI INC                      COM              04651M105     5471  3485000 SH       SOLE                  3485000
+BEAZER HOMES USA INC           COM              07556Q105    55401   518300 SH       SOLE                   518300
+BIOVERIS CORP                  COM              090676107     2095   337400 SH       SOLE                   337400
+BOSTON COMMUNICATIONS GROUP    COM              100582105     9979  1137800 SH       SOLE                  1137800
+CIRCUIT CITY STORE INC         COM              172737108    46020  3000000 SH       SOLE                  3000000
+ENERGY CONVERSION DEVICES IN   COM              292659109     7392   557500 SH       SOLE                   557500
+FREESCALE SEMICONDUCTOR INC    COM CL A         35687M107   296525 20736000 SH       SOLE                 20736000
+GENWORTH FINL INC              COM CL A         37247D106    82016  3520000 SH       SOLE                  3520000
+HOSPIRA INC                    COM              441060100   155809  5091800 SH       SOLE                  5091800
+IDT CORP                       CL B             448947309    71758  4774300 SH       SOLE                  4774300
+INFOCROSSING INC               COM              45664X109     1069    67600 SH       SOLE                    67600
+M D C HLDGS INC                COM              552676108   220279  3013387 SH       SOLE                  3013387
+MCI INC                        COM              552691107    83749  4999938 SH       SOLE                  4999938
+MERCER INTL INC                SH BEN INT       588056101    22323  2565830 SH       SOLE                  2565830
+MI DEVS INC                    CL A SUB VTG     55304X104   118910  4700000 SH       SOLE                  4700000
+NBTY INC                       COM              628782104    16819   780100 SH       SOLE                   780100
+NEW CENTURY FINANCIAL CORP     COM              64352D101   200533  3330000 SH       SOLE                  3330000
+NORTH AMERN SCIENTIFIC INC     COM              65715D100      875   169500 SH       SOLE                   169500
+NRG ENERGY INC                 COM NEW          629377508     2003    74363 SH       SOLE                    74363
+PATINA OIL & GAS CORP          COM              703224105    97581  3300012 SH       SOLE                  3300012
+QUANTA CAPITAL HLDGS LTD       SHS              G7313F106    22983  2820000 SH       SOLE                  2820000
+STATE AUTO FINL CORP           COM              855707105    15121   522306 SH       SOLE                   522306
+VIAD CORP                      COM NEW          92552R406    33761  1422700 SH       SOLE                  1422700
+WASHINGTON GROUP INTL INC      COM NEW          938862208    48835  1410600 SH       SOLE                  1410600
+WELLCHOICE INC                 COM              949475107    20808   557400 SH       SOLE                   557400
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

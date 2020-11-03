@@ -1,0 +1,281 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Hc0AnYPb+VqgB3gPvR+wJ60sEVJTHKRRavwYhd3nwuGr0kEUjLt1oOlC6mEzOqq2
+ cPFf9e76d6/7ybpKUuVdlw==
+
+<SEC-DOCUMENT>0000929638-09-000263.txt : 20090213
+<SEC-HEADER>0000929638-09-000263.hdr.sgml : 20090213
+<ACCEPTANCE-DATETIME>20090213161610
+ACCESSION NUMBER:		0000929638-09-000263
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20081231
+FILED AS OF DATE:		20090213
+DATE AS OF CHANGE:		20090213
+EFFECTIVENESS DATE:		20090213
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		09603699
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>greenlight13f_022009.txt
+<DESCRIPTION>13F REPORT FOR PERIOD ENDING 12/31/2008
+<TEXT>
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended:     December 31, 2008
+
+Check here if Amendment [   ]; Amendment Number: ____
+        This Amendment (Check only one.):   [   ] is a restatement.
+                                            [   ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+Name:                 Greenlight Capital, Inc.
+Address:              140 East 45th Street
+                      24th Floor
+                      New York, NY 10017
+
+Form 13F File Number: 028-7484
+
+The institutional  investment  manager filing this report and the person by whom
+it is signed hereby  represent  that the person signing the report is authorized
+to  submit  it,  that all  information  contained  herein is true,  correct  and
+complete,  and  that it is  understood  that  all  required  items,  statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+Name:                 Daniel Roitman
+Title:                Chief Operating Officer
+Phone:                (212) 973-1900
+
+Signature, Place, and Date of Signing:
+
+/s/ Daniel Roitman               New York, NY              February 13, 2009
+    [Signature]                    [City, State]                 [Date]
+
+Report Type (Check only one.):
+
+[X]  13F HOLDINGS REPORT.  (Check here if all holdings of this reporting
+     manager are reported in this report).
+
+[  ] 13F NOTICE.  (Check here if no holdings reported are in this report,  and
+     all holdings are reported by other reporting manager(s).)
+
+[  ] 13F COMBINATION REPORT. (Check here if a portion of the holdings for this
+     reporting manager are reported in this report and a portion are reported by
+     other reporting manager(s).)
+
+<PAGE>
+
+                             Form 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:                2
+
+No.:     Form 13F File Number:         Name:
+1        028-13228                     DME Advisors, L.P.
+2        028-13259                     Greenlight Masters, LLC
+
+Form 13F Information Table Entry Total:         135
+
+Form 13F Information Table Value Total:   2,011,500
+                                            (x$1000)
+
+
+<PAGE>
+
+                                 FORM 13F INFORMATION TABLE
+                      NAME OF REPORTING MANAGER: GREENLIGHT CAPITAL, INC.
+                                      As of 12/31/08
+<TABLE>
+<CAPTION>
+
+  Column 1                    Column 2      Column 3   Column 4       Column 5           Column 6   Column 7     Column 8
+
+  Name of                     Title of                  Value     TOTAL      SH/ PUT/   Investment   Other        Voting
+  Issuer                       Class         CUSIP     (X$1000)   SHARES     PRN CALL   Discretion  Managers     Authority
+
+                                                                                                           Sole  Shared  None
+
+<S>                           <C>            <C>         <C>      <C>        <C> <C>   <C>          <C>     <C>
+AERCAP HOLDINGS NV            SHS            N00985106     2,638     876,256 SH        SOLE                  876,256
+AERCAP HOLDINGS NV            SHS            N00985106       372     123,744 SH        SOLE         1        123,744
+AIRCASTLE LTD                 COM            G0129K104     1,600     334,718 SH        SOLE                  334,718
+AIRCASTLE LTD                 COM            G0129K104       226      47,223 SH        SOLE         1         47,223
+ALLEGHENY ENERGY INC          COM            017361106   132,728   3,919,900 SH        SOLE                3,919,900
+ALLEGHENY ENERGY INC          COM            017361106    18,716     552,754 SH        SOLE         1        552,754
+AMKOR TECHNOLOGY INC          COM            031652100     1,921     881,231 SH        SOLE                  881,231
+AMKOR TECHNOLOGY INC          COM            031652100       271     124,400 SH        SOLE         1        124,400
+ANIXTER INTL INC              COM            035290105     1,244      41,300 SH        SOLE                   41,300
+ANIXTER INTL INC              COM            035290105       334      11,087 SH        SOLE         1         11,087
+ASPEN INSURANCE HOLDINGS LTD  SHS            G05384105    19,490     803,699 SH        SOLE                  803,699
+ASPEN INSURANCE HOLDINGS LTD  SHS            G05384105     2,750     113,420 SH        SOLE         1        113,420
+BEAZER HOMES USA INC          NOTE 4.625% 6/107556QAL9     1,995   4,534,400 PRN       SOLE                4,534,400
+BEAZER HOMES USA INC          NOTE 4.625% 6/107556QAL9       277     630,600 PRN       SOLE         1        630,600
+BELDEN INC                    COM            077454106     1,524      73,000 SH        SOLE                   73,000
+BELDEN INC                    COM            077454106       409      19,600 SH        SOLE         1         19,600
+BIOFUEL ENERGY CORP           COM            09064Y109     2,133   6,094,661 SH        SOLE                6,094,661
+BIOFUEL ENERGY CORP           COM            09064Y109       507   1,447,443 SH        SOLE         1      1,447,443
+BRANDYWINE RLTY TR            SH BEN INT NEW 105368203     1,684     218,448 SH        SOLE                  218,448
+BRANDYWINE RLTY TR            SH BEN INT NEW 105368203       453      58,700 SH        SOLE         1         58,700
+CADENCE DESIGN SYSTEM INC     COM            127387108     8,254   2,255,249 SH        SOLE                2,255,249
+CADENCE DESIGN SYSTEM INC     COM            127387108     1,165     318,286 SH        SOLE         1        318,286
+CADENCE DESIGN SYSTEM INC     NOTE 1.375% 12/127387AD0     6,520  10,957,700 PRN       SOLE               10,957,700
+CADENCE DESIGN SYSTEM INC     NOTE 1.375% 12/127387AD0       918   1,542,300 PRN       SOLE         1      1,542,300
+CARPENTER TECHNOLOGY CORP     COM            144285103     7,585     369,296 SH        SOLE                  369,296
+CARPENTER TECHNOLOGY CORP     COM            144285103     1,289      62,748 SH        SOLE         1         62,748
+CF INDS HLDGS INC             COM            125269100    76,485   1,555,838 SH        SOLE                1,555,838
+CF INDS HLDGS INC             COM            125269100    12,639     257,100 SH        SOLE         1        257,100
+COLONIAL PPTYS TR             COM            195872106     3,150     378,200 SH        SOLE                  378,200
+COLONIAL PPTYS TR             COM            195872106       445      53,373 SH        SOLE         1         53,373
+COMMSCOPE INC                 COM            203372107    95,360   6,136,430 SH        SOLE                6,136,430
+COMMSCOPE INC                 COM            203372107    13,420     863,570 SH        SOLE         1        863,570
+CORNING INC                   COM            219350105     2,281     239,315 SH        SOLE                  239,315
+CORNING INC                   COM            219350105       543      57,026 SH        SOLE         1         57,026
+CROSSTEX ENERGY INC           COM            22765Y104     1,580     405,040 SH        SOLE                  405,040
+CROSSTEX ENERGY INC           COM            22765Y104       223      57,127 SH        SOLE         1         57,127
+DANA HOLDING CORP             COM            235825205       629     850,495 SH        SOLE                  850,495
+DANA HOLDING CORP             COM            235825205       100     135,666 SH        SOLE         1        135,666
+DANAOS CORPORATION            SHS            Y1968P105     1,153     170,605 SH        SOLE                  170,605
+DANAOS CORPORATION            SHS            Y1968P105       163      24,100 SH        SOLE         1         24,100
+DOW CHEM CO                   COM            260543103    40,993   2,716,600 SH        SOLE                2,716,600
+DOW CHEM CO                   COM            260543103     5,786     383,400 SH        SOLE         1        383,400
+DR PEPPER SNAPPLE GROUP INC   COM            26138E109    12,241     753,293 SH        SOLE                  753,293
+DR PEPPER SNAPPLE GROUP INC   COM            26138E109     1,728     106,321 SH        SOLE         1        106,321
+DUKE REALTY CORP              COM NEW        264411505     2,180     198,879 SH        SOLE                  198,879
+DUKE REALTY CORP              COM NEW        264411505       523      47,700 SH        SOLE         1         47,700
+E M C CORP MASS               COM            268648102    91,122   8,703,175 SH        SOLE                8,703,175
+E M C CORP MASS               COM            268648102    12,860   1,228,300 SH        SOLE         1      1,228,300
+ECHOSTAR CORP                 CL A           278768106    40,033   2,692,181 SH        SOLE                2,692,181
+ECHOSTAR CORP                 CL A           278768106     6,616     444,949 SH        SOLE         1        444,949
+EINSTEIN NOAH REST GROUP INC  COM            28257U104    57,405   9,983,469 SH        SOLE                9,983,469
+EINSTEIN NOAH REST GROUP INC  COM            28257U104     4,313     750,000 SH        SOLE         1        750,000
+EMPLOYERS HOLDINGS INC        COM            292218104    36,138   2,190,200 SH        SOLE                2,190,200
+EMPLOYERS HOLDINGS INC        COM            292218104     2,224     134,800 SH        SOLE         1        134,800
+ENERGY PARTNERS LTD           COM            29270U105       817     605,264 SH        SOLE                  605,264
+ENERGY PARTNERS LTD           COM            29270U105       115      85,169 SH        SOLE         1         85,169
+ENSCO INTL INC                COM            26874Q100     3,444     121,312 SH        SOLE                  121,312
+ENSCO INTL INC                COM            26874Q100       485      17,100 SH        SOLE         1         17,100
+FIFTH STREET FINANCE CORP     COM            31678A103    12,675   1,678,857 SH        SOLE                1,678,857
+FIFTH STREET FINANCE CORP     COM            31678A103     4,384     580,635 SH        SOLE         1        580,635
+FOCUS MEDIA HLDG LTD          SPONSORED ADR  34415V109     8,498     934,867 SH        SOLE                  934,867
+FOCUS MEDIA HLDG LTD          SPONSORED ADR  34415V109     1,405     154,540 SH        SOLE         1        154,540
+FOSTER WHEELER LTD            SHS NEW        G36535139     7,528     321,984 SH        SOLE                  321,984
+FOSTER WHEELER LTD            SHS NEW        G36535139     1,258      53,791 SH        SOLE         1         53,791
+GENERAL CABLE CORP DEL NEW    COM            369300108     1,738      98,243 SH        SOLE                   98,243
+GENERAL CABLE CORP DEL NEW    COM            369300108       451      25,500 SH        SOLE         1         25,500
+GUARANTY FINL GROUP INC       COM            40108N106    18,473   7,077,682 SH        SOLE                7,077,682
+GUARANTY FINL GROUP INC       COM            40108N106     3,235   1,239,560 SH        SOLE         1      1,239,560
+HEALTH MGMT ASSOC INC NEW     CL A           421933102    19,657  10,981,524 SH        SOLE               10,981,524
+HEALTH MGMT ASSOC INC NEW     CL A           421933102     6,130   3,424,661 SH        SOLE         1      3,424,661
+HEALTH NET INC                COM            42222G108     7,520     690,564 SH        SOLE                  690,564
+HEALTH NET INC                COM            42222G108     1,268     116,483 SH        SOLE         1        116,483
+HELIX ENERGY SOLUTIONS GRP I  COM            42330P107    34,518   4,767,662 SH        SOLE                4,767,662
+HELIX ENERGY SOLUTIONS GRP I  COM            42330P107     6,988     965,156 SH        SOLE         1        965,156
+HUNTSMAN CORP                 COM            447011107     2,909     845,600 SH        SOLE                  845,600
+HUNTSMAN CORP                 COM            447011107       411     119,400 SH        SOLE         1        119,400
+JA SOLAR HOLDINGS CO LTD      NOTE 4.500% 5/1466090AA5     3,701   9,739,400 PRN       SOLE                9,739,400
+JA SOLAR HOLDINGS CO LTD      NOTE 4.500% 5/1466090AA5       522   1,374,600 PRN       SOLE         1      1,374,600
+JA SOLAR HOLDINGS CO LTD      SPON ADR       466090107     9,397   2,150,425 SH        SOLE                2,150,425
+JA SOLAR HOLDINGS CO LTD      SPON ADR       466090107     1,593     364,643 SH        SOLE         1        364,643
+LAWSON SOFTWARE INC NEW       NOTE 2.500% 4/152078PAA0     7,090   9,268,200 PRN       SOLE                9,268,200
+LAWSON SOFTWARE INC NEW       NOTE 2.500% 4/152078PAA0     1,172   1,531,800 PRN       SOLE         1      1,531,800
+LIBERTY MEDIA CORP NEW        INT COM SER A  53071M104     1,351     433,100 SH        SOLE                  433,100
+LIBERTY MEDIA CORP NEW        INT COM SER A  53071M104       363     116,429 SH        SOLE         1        116,429
+M D C HLDGS INC               COM            552676108     1,836      60,584 SH        SOLE                   60,584
+M D C HLDGS INC               COM            552676108       295       9,740 SH        SOLE         1          9,740
+MARKET VECTOR ETF TR          GOLD MINER ETF 57060U100    95,040   2,805,200 SH        SOLE                2,805,200
+MARKET VECTOR ETF TR          GOLD MINER ETF 57060U100    13,376     394,800 SH        SOLE         1        394,800
+MCDERMOTT INTL INC            COM            580037109     7,330     741,921 SH        SOLE                  741,921
+MCDERMOTT INTL INC            COM            580037109     1,249     126,438 SH        SOLE         1        126,438
+MDC PARTNERS INC              CL A SUB VTG   552697104       664     218,512 SH        SOLE                  218,512
+MDC PARTNERS INC              CL A SUB VTG   552697104        94      30,844 SH        SOLE         1         30,844
+MEMC ELECTR MATLS INC         COM            552715104    91,197   6,386,315 SH        SOLE                6,386,315
+MEMC ELECTR MATLS INC         COM            552715104    12,872     901,383 SH        SOLE         1        901,383
+MERCER INTL INC               NOTE 8.500%10/1588056AG6     9,585  13,500,000 PRN       SOLE               13,500,000
+MI DEVS INC                   CL A SUB VTG   55304X104    35,421   4,748,100 SH        SOLE                4,748,100
+MI DEVS INC                   CL A SUB VTG   55304X104     4,546     609,435 SH        SOLE         1        609,435
+MI DEVS INC                   CL A SUB VTG   55304X104       224      30,000 SH        SOLE         2         30,000
+OSHKOSH CORP                  COM            688239201     1,516     170,500 SH        SOLE                  170,500
+OSHKOSH CORP                  COM            688239201       407      45,800 SH        SOLE         1         45,800
+PATRIOT COAL CORP             COM            70336T104     7,236   1,157,680 SH        SOLE                1,157,680
+PATRIOT COAL CORP             COM            70336T104     1,021     163,409 SH        SOLE         1        163,409
+PATTERSON UTI ENERGY INC      COM            703481101     7,780     675,953 SH        SOLE                  675,953
+PATTERSON UTI ENERGY INC      COM            703481101     1,326     115,200 SH        SOLE         1        115,200
+PROSHARES TR                  PSHSULTSH 20YRS74347R297    14,205     376,500 SH        SOLE                  376,500
+PROSHARES TR                  PSHSULTSH 20YRS74347R297     2,003      53,100 SH        SOLE         1         53,100
+REPUBLIC AWYS HLDGS INC       COM            760276105    16,063   1,505,473 SH        SOLE                1,505,473
+REPUBLIC AWYS HLDGS INC       COM            760276105     2,518     236,027 SH        SOLE         1        236,027
+SEARS HLDGS CORP              COM            812350106     1,506      38,753 SH        SOLE                   38,753
+SINCLAIR BROADCAST GROUP INC  CL A           829226109       608     196,099 SH        SOLE                  196,099
+SINCLAIR BROADCAST GROUP INC  CL A           829226109        86      27,692 SH        SOLE         1         27,692
+SMITHFIELD FOODS INC          COM            832248108     2,720     193,292 SH        SOLE                  193,292
+SMITHFIELD FOODS INC          COM            832248108       647      45,971 SH        SOLE         1         45,971
+SPDR GOLD TRUST               GOLD SHS       78463V107   274,450   3,171,000 SH        SOLE                3,171,000
+SPDR GOLD TRUST               GOLD SHS       78463V107    45,360     524,090 SH        SOLE         1        524,090
+SUNSTONE HOTEL INVS INC NEW   COM            867892101     1,315     212,400 SH        SOLE                  212,400
+SUNSTONE HOTEL INVS INC NEW   COM            867892101       353      57,100 SH        SOLE         1         57,100
+SUPERVALU INC                 COM            868536103     1,475     101,000 SH        SOLE                  101,000
+SUPERVALU INC                 COM            868536103       397      27,201 SH        SOLE         1         27,201
+TARGET CORP                   COM            87612E106   105,162   3,045,538 SH        SOLE                3,045,538
+TARGET CORP                   COM            87612E106    14,845     429,906 SH        SOLE         1        429,906
+TEEKAY CORPORATION            COM            Y8564W103     1,305      66,400 SH        SOLE                   66,400
+TEEKAY CORPORATION            COM            Y8564W103       353      17,965 SH        SOLE         1         17,965
+TERADATA CORP DEL             COM            88076W103    82,947   5,593,209 SH        SOLE                5,593,209
+TERADATA CORP DEL             COM            88076W103    13,710     924,508 SH        SOLE         1        924,508
+TICKETMASTER ENTMT INC        COM            88633P302    14,266   2,222,079 SH        SOLE                2,222,079
+TICKETMASTER ENTMT INC        COM            88633P302     2,088     325,267 SH        SOLE         1        325,267
+TRIPLE-S MGMT CORP            CL B           896749108     5,837     507,588 SH        SOLE                  507,588
+TRIPLE-S MGMT CORP            CL B           896749108       920      80,000 SH        SOLE         1         80,000
+URS CORP NEW                  COM            903236107   163,010   3,998,274 SH        SOLE                3,998,274
+URS CORP NEW                  COM            903236107    26,686     654,559 SH        SOLE         1        654,559
+WESTERN DIGITAL CORP          COM            958102105     6,714     586,410 SH        SOLE                  586,410
+WESTERN DIGITAL CORP          COM            958102105     1,146     100,048 SH        SOLE         1        100,048
+WILLIAMS SONOMA INC           COM            969904101     6,266     797,184 SH        SOLE                  797,184
+WILLIAMS SONOMA INC           COM            969904101     1,088     138,429 SH        SOLE         1        138,429
+
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

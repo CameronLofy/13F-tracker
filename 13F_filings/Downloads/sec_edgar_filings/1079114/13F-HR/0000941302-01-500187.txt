@@ -1,0 +1,205 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ADUZQEIg0ajKy3g+yLEjBSdmZVLr+bRqlv+ezgEiN395I21lfPAd6PcKPyQ2xpQv
+ 33IbWgL3JMKMomdyjMPYGQ==
+
+<SEC-DOCUMENT>0000941302-01-500187.txt : 20021127
+<SEC-HEADER>0000941302-01-500187.hdr.sgml : 20021127
+<ACCEPTANCE-DATETIME>20010802130420
+ACCESSION NUMBER:		0000941302-01-500187
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20010630
+FILED AS OF DATE:		20010802
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		01695954
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>grenl13f.txt
+<DESCRIPTION>FORM 13F
+<TEXT>
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+
+                                 FORM 13F
+
+                            FORM 13F COVER PAGE
+
+               Report for the Quarter Ended June 30, 2001.
+
+Check here if Amendment [   ]; Amendment Number:
+This Amendment (Check only one.):  [   ]  is a restatement.
+                                   [   ]  adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Greenlight Capital, Inc.
+Address:  420 Lexington Avenue, Suite 1740
+          New York, NY   11111
+
+13F File Number:    28-7484
+
+The institutional investment manager filing this report and the person by
+whom it is signed hereby represent that the person signing the report is
+authorized to submit it, that all information contained herein is true,
+correct and complete, and that it is understood that all required items,
+statements, schedules, lists, and tables, are considered integral parts of
+this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Jeff Keswin
+Title:    Co-President
+Phone:    (212) 973-1900
+Signature, Place, and Date of Signing:
+
+     /S/ JEFF KESWIN          New York, New York       August 2, 2001
+     ---------------          ------------------       ----------------
+
+Report Type (Check only one.):
+
+[ X ]     13F HOLDINGS REPORT.
+
+[   ]     13F NOTICE.
+
+[   ]     13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+
+I  AM  SIGNING  THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE  ACT  OF
+1934.
+<PAGE>
+
+
+                           FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:           0
+
+Form 13F Information Table Entry Total:      38
+
+Form 13F Information Table Value Total:      $435,063
+
+
+List of Other Included Managers:
+
+No.       13F File Number               Name
+- ---       ---------------               ----
+
+<PAGE>
+
+
+
+<TABLE>
+                                              FORM 13F INFORMATION TABLE
+<CAPTION>
+
+                                                                                             VOTING AUTHORITY
+                      TITLE                   VALUE     SHARES/     SH/  PUT/ INVSTMT    OTHER    ---------------------
+NAME OF ISSUER      OF CLASS       CUSIP    (X$1,000)   PRN AMT     PRN  CALL DSCRETN  MANAGERS    SOLE     SHARED NONE
+- --------------      --------     ---------   --------   ---------   ---  ---- -------  --------  ---------  ------ ----
+<S>                 <C>          <C>        <C>         <C>         <C>  <C>  <C>      <C>       <C>        <C>    <C>
+AKAMAI              SB NT CV     00971TAC5      4,550      100,000  PRN         SOLE               100,000
+   TECHNOLOGIES INC 5.5%07
+AMERICAN PHYSICIANS COM	         028884104     22,415    1,149,500  SH          SOLE             1,149,500
+   CAPITAL
+ASSISTED LIVING     COM          04543L109        131    1,093,600  SH          SOLE             1,093,600
+   CONCEPTS INC
+ASSISTED LIVING     SB DB        04543LAD1      4,400      137,500  PRN         SOLE               137,500
+   CONCEPTS INC     CV 6%02
+ASSISTED LIVING     SB DB        04543LAG4      2,453       76,650  PRN         SOLE                76,650
+   CONCEPTS INC     CV 5.625%03
+BINDVIEW DEV CORP   COM          090327107      4,177    1,979,600  SH          SOLE             1,979,600
+BOOKHAM TECHNOLOGY  SPONSORED    09856Q108        145       50,000  SH          SOLE                50,000
+   PLC		  ADR
+CKE RESTAURANTS     SB NT CV     12561EAB1      5,568      106,050  PRN         SOLE               106,050
+   INC              4.25%04
+EBT INTL INC        COM          268248101        732      271,000  SH          SOLE               271,000
+ELAN PLC            ADR          284131208      3,587       58,800  SH          SOLE                58,800
+EMCOR GROUP INC     COM          29084Q100     18,581      514,000  SH          SOLE               514,000
+FINOVA GROUP INC    COM          317928109      4,237    1,145,100  SH          SOLE             1,145,100
+GUESS INC           COM          401617105      1,855      276,900  SH          SOLE               276,900
+HAMILTON BANCORP    COM          407013101      2,151      307,300  SH          SOLE               307,300
+   INC FLA
+HAVAS ADVERTISING   SPONSORED    419313101      1,344      123,549  SH          SOLE               123,549
+			  ADR
+INSIGNIA FINL GROUP COM          45767A105     20,829    1,693,400  SH          SOLE             1,693,400
+   INC NEW
+LONE STAR           COM          542307103     10,336      795,700  SH          SOLE               795,700
+   STEAKHOUSE
+   SALOON
+M D C HLDGS INC	  COM          552676108     44,342    1,252,600  SH          SOLE             1,252,600
+MAGNA ENTMT CORP    CL A         559211107     18,828    2,946,500  SH          SOLE             2,946,500
+MERCER INTL INC     SH BEN INT   588056101     17,371    2,517,500  SH          SOLE             2,517,500
+METHODE ELECTRS INC CL A         591520200        860      100,000  SH          SOLE               100,000
+NAVIGANT INTL INC   COM          63935R108     17,031    1,216,500  SH          SOLE             1,216,500
+NEOMAGIC CORP       COM          640497103      4,029    1,259,100  SH          SOLE             1,259,100
+NEOPHARM INC        COM          640919106     11,569      453,700  SH          SOLE               453,700
+OMEGA WORLDWIDE     COM          68210B108      1,451      547,700  SH          SOLE               547,700
+   INC
+OMTOOL LTD          COM          681974101        449      554,800  SH          SOLE               554,800
+OPTI INC            COM          683960108      1,557      408,700  SH          SOLE               408,700
+PATINA OIL & GAS    COM          703224105      8,888      335,400  SH          SOLE               335,400
+   CORP
+PFSWEB INC          COM          717098107         26       24,321  SH          SOLE                24,321
+RENAISSANCE         COM          75968A109      2,048    1,539,600  SH          SOLE             1,539,600
+   WORLDWIDE INC
+SAFEGUARD           SB NT CV     786449AE8      4,418       77,500  PRN         SOLE                77,500
+   SCIENTIFICS INC  5%06
+SECURITY CAP GROUP  CL B         81413P204     20,955      979,225  SH          SOLE               979,225
+   INC
+TERAYON 	        SB NT CONV   880775AC5      2,160       60,000  PRN         SOLE                60,000
+   COMMUNICATION    5%07
+   SYS
+3 COM CORP          COM          885535104     19,315    4,066,400  SH          SOLE             4,066,400
+UICI                COM          902737105      7,658      600,600  SH          SOLE               600,600
+U S INDS INC NEW    COM          912080108      9,431    2,300,300  SH          SOLE             2,300,300
+VISTEON CORP        COM          92839U107     92,187    5,015,600  SH          SOLE             5,015,600
+WESTERN RES INC     COM          959425109     43,000    2,000,000  SH          SOLE             2,000,000
+
+</TABLE>
+
+
+491898v1  DALLAS  013026.0000
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

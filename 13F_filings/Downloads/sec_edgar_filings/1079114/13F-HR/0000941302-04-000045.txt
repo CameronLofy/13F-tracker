@@ -1,0 +1,167 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AmUOv9ZcTWawqNU3tlXbal5ZF1yCFgRlYRE/JphYzZW50pdTOAt2GxOsaQBuj40j
+ jAaCw0WYn+/ximzkhZstrg==
+
+<SEC-DOCUMENT>0000941302-04-000045.txt : 20040816
+<SEC-HEADER>0000941302-04-000045.hdr.sgml : 20040816
+<ACCEPTANCE-DATETIME>20040816161456
+ACCESSION NUMBER:		0000941302-04-000045
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20040630
+FILED AS OF DATE:		20040816
+EFFECTIVENESS DATE:		20040816
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		04978920
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>gr2q04.txt
+<DESCRIPTION>GREENLIGHT 13F 2Q 2004
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: June 30, 2004
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Greenlight Capital, Inc.
+Address: 140 East 45th Street
+         24th Floor
+         New York, New York  10017
+
+13F File Number:  28-7484
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      David Einhorn
+Title:     President
+Phone:     212.973.1900
+
+Signature, Place, and Date of Signing:
+
+     David Einhorn     New York, New York     August 16, 2004
+
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+
+
+
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         0
+
+Form13F Information Table Entry Total:     24
+
+Form13F Information Table Value Total:     $1,192,651 (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+NONE
+
+
+<PAGE>
+
+
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+AMERICAN HOME MTG INVT CORP    COM              02660R107    92415  3564000 SH       SOLE                  3564000
+ARGOSY GAMING CO               COM              040228108     2036    63632 SH       SOLE                    63632
+ATARI INC                      COM              04651M105     8399  3485000 SH       SOLE                  3485000
+BEAZER HOMES USA INC           COM              07556Q105    40124   400000 SH       SOLE                   400000
+BIOVERIS CORP                  COM              090676107     2807   337400 SH       SOLE                   337400
+BOSTON COMMUNICATIONS GROUP    COM              100582105     8768   855400 SH       SOLE                   855400
+CIRCUIT CITY STORE INC         COM              172737108    64750  5000000 SH       SOLE                  5000000
+COUNTRYWIDE FINANCIAL CORP     COM              222372104    56217   800249 SH       SOLE                   800249
+DEUTSCHE BANK AG NAMEN         ORD              D18190898    15822   200000 SH       SOLE                   200000
+ENERGY CONVERSION DEVICES IN   COM              292659109     2194   194829 SH       SOLE                   194829
+GENWORTH FINL INC              COM CL A         37247D106    80784  3520000 SH       SOLE                    80784
+HOSPIRA INC                    COM              441060100    76217  2761500 SH       SOLE                  2761500
+IDT CORP                       CL B             448947309    71285  3865800 SH       SOLE                  3865800
+M D C HLDGS INC                COM              552676108   190855  3000387 SH       SOLE                  3000387
+MERCER INTL INC                SH BEN INT       588056101    25094  2565830 SH       SOLE                  2565830
+MI DEVS INC                    CL A SUB VTG     55304X104   126900  4700000 SH       SOLE                  4700000
+NEW CENTURY FINANCIAL CORP     COM              64352D101   155911  3330000 SH       SOLE                  3330000
+NORTH AMERN SCIENTIFIC INC     COM              65715D100     4184   498100 SH       SOLE                   498100
+NRG ENERGY INC                 COM NEW          629377508     1844    74363 SH       SOLE                    74363
+PATINA OIL & GAS CORP          COM              703224105    98571  3300012 SH       SOLE                  3300012
+STATE AUTO FINL CORP           COM              855707105     8368   272400 SH       SOLE                   272400
+VIAD CORP		       COM	        92552R109     6873   237750 SH       SOLE                   237750
+WASHINGTON GROUP INTL INC      COM NEW          938862208    31355   873629 SH       SOLE                   873629
+WELLCHOICE INC                 COM              949475107    20878   504300 SH       SOLE                   504300
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

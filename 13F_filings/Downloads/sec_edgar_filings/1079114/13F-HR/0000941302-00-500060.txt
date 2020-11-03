@@ -1,0 +1,222 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ I+dznIFQ/bWl7Xb/A7U9GQHqRACrepJiqBBdGt+N0/rSubTsZlxJDL2qScJLFMCF
+ adfq2PcmDxqBbj9iEDZYLA==
+
+<SEC-DOCUMENT>/in/edgar/work/0000941302-00-500060/0000941302-00-500060.txt : 20001109
+<SEC-HEADER>0000941302-00-500060.hdr.sgml : 20001109
+ACCESSION NUMBER:		0000941302-00-500060
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20000930
+FILED AS OF DATE:		20001108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [
+]</COMPANY-DATA>
+
+		FILING VALUES:
+			FORM TYPE:		13F-HR
+			SEC ACT:		
+			SEC FILE NUMBER:	028-07484
+			FILM NUMBER:		755307
+</FILING-VALUES>
+
+			BUSINESS ADDRESS:	
+				STREET 1:		420 LEXINGTON AVE
+				STREET 2:		SUITE 875
+				CITY:			NEW YORK
+				STATE:			NY
+				ZIP:			10170
+				BUSINESS PHONE:		2129731900
+</BUSINESS-ADDRESS>
+
+				MAIL ADDRESS:	
+					STREET 1:		420 LEXINGTON AVE
+					STREET 2:		SUITE 875
+					CITY:			NEW YORK
+					STATE:			NY
+					ZIP:			10170
+</MAIL-ADDRESS>
+</FILER>
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>gl13f.txt
+<DESCRIPTION>COVER PAGE, SUMMARY PAGE, INFO PAGE
+<TEXT>
+
+
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+
+                                 FORM 13F
+
+                            FORM 13F COVER PAGE
+
+               Report for the Quarter Ended September 30, 2000.
+
+Check here if Amendment [   ]; Amendment Number:
+This Amendment (Check only one.):  [   ]  is a restatement.
+                                   [   ]  adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Greenlight Capital, Inc.
+Address:  420 Lexington Avenue, Suite 1740
+          New York, NY   11111
+
+13F File Number:    28-7484
+
+The institutional investment manager filing this report and the person by
+whom it is signed hereby represent that the person signing the report is
+authorized to submit it, that all information contained herein is true,
+correct and complete, and that it is understood that all required items,
+statements, schedules, lists, and tables, are considered integral parts of
+this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Jeff Keswin
+Title:    Co-President
+Phone:    (212) 973-1900
+Signature, Place, and Date of Signing:
+
+     /S/ JEFF KESWIN          New York, New York       November 8, 2000
+     ---------------          ------------------       ------------
+
+Report Type (Check only one.):
+
+[ X ]     13F HOLDINGS REPORT.
+
+[   ]     13F NOTICE.
+
+[   ]     13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+
+I  AM  SIGNING  THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE  ACT  OF
+1934.
+<PAGE>
+
+
+                           FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:           0
+
+Form 13F Information Table Entry Total:      26
+
+Form 13F Information Table Value Total:      $265,742
+
+
+List of Other Included Managers:
+
+No.       13F File Number               Name
+- ---       ---------------               ----
+
+<PAGE>
+
+
+<TABLE>
+                                              FORM 13F INFORMATION TABLE
+<CAPTION>
+
+
+VOTING AUTHORITY
+                       TITLE                    VALUE     SHARES/     SH/   PUT/
+INVSTMT    OTHER    ---------------------
+NAME  OF  ISSUER      OF CLASS       CUSIP    (X$1,000)   PRN AMT     PRN   CALL
+DSCRETN  MANAGERS    SOLE     SHARED NONE
+- --------------      --------     ---------   --------   ---------   ---  ---- --
+- -----  --------  ---------  ------ ----
+<S>                  <C>           <C>        <C>         <C>          <C>   <C>
+<C>      <C>       <C>        <C>    <C>
+AGRIBRANDS   INTL       COM           00849R105      28,522        653,800    SH
+SOLE               653,800
+   INC
+ASSISTED   LIVING       COM           04543L109         684      1,093,600    SH
+SOLE             1,093,600
+   CONCEPTS INC
+ASSISTED   LIVING      SB  DB         04543LAD1       6,738       137,500    PRN
+SOLE               137,500
+   CONCEPTS INC     CV 6%02
+ASSISTED   LIVING      SB  DB         04543LAG4         490        10,000    PRN
+SOLE                10,000
+   CONCEPTS INC     CV 5.625%03
+CKE   RESTAURANTS      SB  NT  CV      12561EAB1       1,643        36,500   PRN
+SOLE                36,500
+   INC              4.25%04
+EMCOR   GROUP  INC      COM           29084Q100       7,298        280,700    SH
+SOLE               280,700
+FPIC   INS   GROUP       COM           302563101       1,263        90,200    SH
+SOLE                90,200
+   INC
+HAMILTON   BANCORP      COM           407013101       5,989        352,300    SH
+SOLE               352,300
+   INC FLA
+INSIGNIA   FINL  GROUP  COM           45767A105      13,103      1,278,300    SH
+SOLE             1,278,300
+   INC NEW
+LONE   STAR             COM           542307103       7,785      1,055,600    SH
+SOLE             1,055,600
+   STEAKHOUSE
+   SALOON
+MAGNA   ENTMT  CORP     CL  A          559211107      17,939     2,657,700    SH
+SOLE             2,657,700
+M  D  C  HLDGS  INC        COM           552676108     28,990     1,115,000   SH
+SOLE             1,115,000
+MERCER  INTL  INC      SH  BEN  INT    588056101      12,771     1,688,700    SH
+SOLE             1,688,700
+METHODE   ELECTRS  INC  CL  A          591520200       4,431       100,000    SH
+SOLE               100,000
+NAVIGANT   INTL  INC    COM           63935R108      11,870      1,130,500    SH
+SOLE             1,130,500
+NEOPHARM   INC          COM           640919106       2,571         65,200    SH
+SOLE                65,200
+OMEGA   WORLDWIDE       COM           68210B108       1,164        547,700    SH
+SOLE               547,700
+   INC
+OMTOOL   LTD            COM           681974101       1,777        592,300    SH
+SOLE               592,300
+OPTI   INC              COM           683960108       2,248        408,700    SH
+SOLE               408,700
+PFSWEB   INC            COM           717098107          50         24,321    SH
+SOLE                24,321
+PALATIN            COM   NEW        696077304           47         25,000     SH
+SOLE                25,000
+   TECHNOLOGIES INC
+STANCORP   FINL         COM           852891100      18,335        428,900    SH
+SOLE               428,900
+   GROUP INC
+SPLASH   TECHNOLOGY    COM           848623104          933        100,900    SH
+SOLE               100,900
+   HLDGS INC
+TRIAD   HOSPITALS       COM           89579K109      16,776        571,100    SH
+SOLE               571,100
+   INC
+UICI                  COM            902737105        4,701        671,600    SH
+SOLE               671,600
+VISTEON   CORP          COM           92839U107      67,624      4,471,000    SH
+SOLE             4,471,000
+</TABLE>
+
+</TEXT>
+
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

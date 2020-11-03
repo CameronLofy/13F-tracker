@@ -1,0 +1,174 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QBABjpgRp+hjZiSdlVwX3FqxNbv6tj5KPznzpftfl9tIPU67PDRzHONemDhAdx5T
+ hdsDdOkf9owwssSRingLtQ==
+
+<SEC-DOCUMENT>0000941302-99-000181.txt : 19991115
+<SEC-HEADER>0000941302-99-000181.hdr.sgml : 19991115
+ACCESSION NUMBER:		0000941302-99-000181
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	19990930
+FILED AS OF DATE:		19991112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		STANDARD INDUSTRIAL CLASSIFICATION:	 []
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		99748367
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<TEXT>
+
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+
+                                 FORM 13F
+
+                            FORM 13F COVER PAGE
+
+          Report for the Quarter Ended September 30, 1999.
+
+Check here if Amendment [   ]; Amendment Number:
+This Amendment (Check only one.):  [   ]  is a restatement.
+                                   [   ]  adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:          Greenlight Capital, Inc.
+Address:       420 Lexington Avenue, Suite 875
+               New York, NY   11111
+
+13F File Number:    28-7484
+
+  The institutional investment manager filing this report and the person
+by whom it is signed hereby represent that the person signing the report is
+authorized to submit it, that all information contained herein is true,
+correct and complete, and that it is understood that all required items,
+statements, schedules, lists, and tables, are considered integral parts of
+this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:          Jeff Keswin
+Title:         Co-President
+Phone:         (212) 973-1900
+Signature, Place, and Date of Signing:
+
+      /s/ Jeff Keswin         New York, New York       November 12, 1999
+      ---------------         ------------------       -----------------
+
+Report Type (Check only one.):
+
+[ X ]     13F HOLDINGS REPORT.
+
+[   ]     13F NOTICE.
+
+[   ]     13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+
+I  AM  SIGNING  THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE  ACT  OF
+1934.
+<PAGE>
+
+                           FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:                0
+
+Form 13F Information Table Entry Total:           30
+
+Form 13F Information Table Value Total:           178,322
+
+
+List of Other Included Managers:
+
+No.    13F File Number        Name
+- ---    ---------------        ----
+
+<PAGE>
+
+<TABLE>
+
+                           FORM 13F INFORMATION TABLE
+<CAPTION>
+
+                                 TITLE                                                                          VOTING AUTHORITY
+                                  OF                    VALUE     SHARES/   SH/  PUT/  INVSTMT    OTHER     ------------------------
+NAME OF ISSUER                   CLASS       CUSIP    (X$1,000)   PRN AMT   PRN  CALL  DSCRETN  MANAGERS      SOLE      SHARED  NONE
+- --------------                   -----     ---------  --------    --------  ---  ----  -------  --------    --------    ------  ----
+<S>                              <C>       <C>        <C>        <C>        <C>  <C>   <C>      <C>        <C>          <C>     <C>
+AMERICAN CAPITAL STRATEGIES      COM       024937104       538      29,100  SH          SOLE                  29,100
+AGRIBRANDS INTL INC              COM       00849R105    42,539     857,200  SH          SOLE                 857,200
+ASSISTED LIVING CONCEPTS INC     SB DB CV  04543LAD1     7,769     137,500  SH          SOLE                 137,500
+                                 6%02
+ASSISTED LIVING CONCEPTS INC     SB DB CV  04543LAG4       545      10,000  SH          SOLE                  10,000
+                                 5.625%03
+AMERUS LIFE HLDGS INC            COM       030732101     3,659     172,700  SH          SOLE                 172,700
+AUSPEX SYS INC                   COM       052116100     7,052     794,600  SH          SOLE                 794,600
+BNC MTG INC                      COM       05561Y105     4,574     665,400  SH          SOLE                 665,400
+CONSOLIDATED FREIGHTWAYS CORP    COM       209232107    11,105   1,124,600  SH          SOLE               1,124,600
+CLARION COML HLDGS INC           CL A      18051W109     1,207     178,900  SH          SOLE                 178,900
+DELIA'S INC                      COM       246885107       477      76,200  SH          SOLE                  76,200
+EMCOR GROUP INC                  COM       29084Q100     4,021     208,900  SH          SOLE                 208,900
+FPIC INS GROUP INC               COM       302563101     1,479      98,200  SH          SOLE                  98,200
+FIRST SIERRA FINANCIAL INC       COM       335944104     3,318     310,500  SH          SOLE                 310,500
+GETTY RLTY CORP NEW              COM       374297109     8,105     600,400  SH          SOLE                 600,400
+IDT CORP                         COM       448947101       892      42,600  SH          SOLE                  42,600
+LIFETIME HOAN CORP               COM       531926103       314      43,000  SH          SOLE                  43,000
+M D C HLDGS INC                  COM       552676108     3,432     212,000  SH          SOLE                 212,000
+MERCER INTL INC                  SH BEN    588056101     5,285   1,421,200  SH          SOLE               1,421,200
+                                 INT
+MODTECH HLDGS INC                COM       60783C100       358      48,573  SH          SOLE                  48,573
+NCRIC GROUP INC                  COM       628866105       150      17,500  SH          SOLE                  17,500
+NEOPHARM INC                     COM       640919106       563      38,200  SH          SOLE                  38,200
+OPTI INC                         COM       683960108     3,374     477,700  SH          SOLE                 477,700
+OMEGA WORLDWIDE INC              COM       68210B108     2,263     552,700  SH          SOLE                 552,700
+RECKSON SVC INDS INC             COM       75621J109    14,144     894,500  SH          SOLE                 894,500
+STANCORP FINL GROUP INC          COM       852891100     5,605     250,500  SH          SOLE                 250,500
+SNYDER COMMUNICATIONS INC        COM       832914105     3,038     200,000  SH          SOLE                 200,000
+SPLASH TECHNOLOGY HLDGS INC      COM       848623104     3,037     495,800  SH          SOLE                 495,800
+LONE STAR STEAKHOUSE SALOON      COM       542307103     8,399   1,092,600  SH          SOLE               1,092,600
+TRIAD HOSPITALS INC              COM       89579K109    27,369   2,703,100  SH          SOLE               2,703,100
+UCBH HOLDINGS INC                COM       90262T308     3,711     203,333  SH          SOLE                 203,333
+
+</TABLE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

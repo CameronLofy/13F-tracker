@@ -1,0 +1,2133 @@
+<SEC-DOCUMENT>0001079114-17-000013.txt : 20171114
+<SEC-HEADER>0001079114-17-000013.hdr.sgml : 20171114
+<ACCEPTANCE-DATETIME>20171114161025
+ACCESSION NUMBER:		0001079114-17-000013
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20170930
+FILED AS OF DATE:		20171114
+DATE AS OF CHANGE:		20171114
+EFFECTIVENESS DATE:		20171114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		171201595
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/thirteenffiler" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>13F-HR</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <flags>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+        <returnCopyFlag>true</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+      </flags>
+      <filer>
+        <credentials>
+          <cik>0001079114</cik>
+          <ccc>XXXXXXXX</ccc>
+        </credentials>
+      </filer>
+      <periodOfReport>09-30-2017</periodOfReport>
+    </filerInfo>
+  </headerData>
+  <formData>
+    <coverPage>
+      <reportCalendarOrQuarter>09-30-2017</reportCalendarOrQuarter>
+      <filingManager>
+        <name>GREENLIGHT CAPITAL INC</name>
+        <address>
+          <com:street1>140 EAST 45TH STREET</com:street1>
+          <com:street2>24TH FLOOR</com:street2>
+          <com:city>NEW YORK</com:city>
+          <com:stateOrCountry>NY</com:stateOrCountry>
+          <com:zipCode>10017</com:zipCode>
+        </address>
+      </filingManager>
+      <reportType>13F HOLDINGS REPORT</reportType>
+      <form13FFileNumber>028-07484</form13FFileNumber>
+      <provideInfoForInstruction5>N</provideInfoForInstruction5>
+    </coverPage>
+    <signatureBlock>
+      <name>Daniel Roitman</name>
+      <title>Chief Operating Officer</title>
+      <phone>212-973-1900</phone>
+      <signature>/s/ Daniel Roitman</signature>
+      <city>New York</city>
+      <stateOrCountry>NY</stateOrCountry>
+      <signatureDate>11-14-2017</signatureDate>
+    </signatureBlock>
+    <summaryPage>
+      <otherIncludedManagersCount>3</otherIncludedManagersCount>
+      <tableEntryTotal>122</tableEntryTotal>
+      <tableValueTotal>6274472</tableValueTotal>
+      <isConfidentialOmitted>true</isConfidentialOmitted>
+      <otherManagers2Info>
+        <otherManager2>
+          <sequenceNumber>1</sequenceNumber>
+          <otherManager>
+            <cik>0001300763</cik>
+            <form13FFileNumber>028-13228</form13FFileNumber>
+            <name>DME Advisors, LP</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>2</sequenceNumber>
+          <otherManager>
+            <cik>0001489933</cik>
+            <form13FFileNumber>028-14000</form13FFileNumber>
+            <name>DME Capital Management, LP</name>
+          </otherManager>
+        </otherManager2>
+        <otherManager2>
+          <sequenceNumber>3</sequenceNumber>
+          <otherManager>
+            <cik>0001449674</cik>
+            <form13FFileNumber>028-13259</form13FFileNumber>
+            <name>Greenlight Masters, LLC</name>
+          </otherManager>
+        </otherManager2>
+      </otherManagers2Info>
+    </summaryPage>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>INFORMATION TABLE
+<SEQUENCE>2
+<FILENAME>Greenlight_13FXML_09302017.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:n1="http://www.sec.gov/edgar/document/thirteenf/informationtable" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:a="urn:crystal-reports:schemas:report-detail" xsi:schemaLocation="http://www.sec.gov/edgar/document/thirteenf/informationtable eis_13FDocument.xsd">
+	<infoTable>
+		<nameOfIssuer>ADIENT PLC</nameOfIssuer>
+		<titleOfClass>ORD SHS</titleOfClass>
+		<cusip>G0084W101</cusip>
+		<value>79438</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>945800</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>945800</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>ADIENT PLC</nameOfIssuer>
+		<titleOfClass>ORD SHS</titleOfClass>
+		<cusip>G0084W101</cusip>
+		<value>24256</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>288800</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>288800</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>ADIENT PLC</nameOfIssuer>
+		<titleOfClass>ORD SHS</titleOfClass>
+		<cusip>G0084W101</cusip>
+		<value>41693</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>496400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>496400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AERCAP HOLDINGS NV</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>N00985106</cusip>
+		<value>355451</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>6954635</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>6954635</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AERCAP HOLDINGS NV</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>N00985106</cusip>
+		<value>83703</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1637700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>1637700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AERCAP HOLDINGS NV</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>N00985106</cusip>
+		<value>185281</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3625143</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>3625143</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AERCAP HOLDINGS NV</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>N00985106</cusip>
+		<value>7055</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>138030</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>3</otherManager>
+		<votingAuthority>
+			<Sole>138030</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>ALTABA INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>021346101</cusip>
+		<value>161076</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2431706</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>2431706</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>ALTABA INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>021346101</cusip>
+		<value>38611</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>582900</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>582900</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>ALTABA INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>021346101</cusip>
+		<value>83959</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1267494</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>1267494</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AMERCO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>023586100</cusip>
+		<value>10235</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>27300</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>27300</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AMERCO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>023586100</cusip>
+		<value>3149</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>8400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>8400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>AMERCO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>023586100</cusip>
+		<value>5361</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>14300</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>14300</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>APPLE INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>037833100</cusip>
+		<value>192987</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1252184</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>1252184</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>APPLE INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>037833100</cusip>
+		<value>36030</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>233776</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>233776</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>APPLE INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>037833100</cusip>
+		<value>108436</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>703580</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>703580</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>APPLE INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>037833100</cusip>
+		<value>518</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3360</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>3</otherManager>
+		<votingAuthority>
+			<Sole>3360</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CARS COM INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>14575E105</cusip>
+		<value>8269</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>310733</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>310733</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CARS COM INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>14575E105</cusip>
+		<value>2241</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>84233</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>84233</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CARS COM INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>14575E105</cusip>
+		<value>4083</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>153433</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>153433</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CHEMOURS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>163851108</cusip>
+		<value>40797</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>806100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>806100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CHEMOURS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>163851108</cusip>
+		<value>12612</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>249200</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>249200</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CHEMOURS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>163851108</cusip>
+		<value>21747</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>429700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>429700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CHILDRENS PL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>168905107</cusip>
+		<value>4265</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>36100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>36100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CHILDRENS PL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>168905107</cusip>
+		<value>1311</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>11100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>11100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CHILDRENS PL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>168905107</cusip>
+		<value>2268</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>19200</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>19200</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CLIPPER RLTY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>18885T306</cusip>
+		<value>6339</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>591900</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>591900</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CLIPPER RLTY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>18885T306</cusip>
+		<value>1403</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>131000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>131000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CLIPPER RLTY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>18885T306</cusip>
+		<value>2968</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>277100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>277100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CNX COAL RES LP</nameOfIssuer>
+		<titleOfClass>COM UNIT RP LP</titleOfClass>
+		<cusip>12592V100</cusip>
+		<value>48080</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3248638</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>3248638</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CNX COAL RES LP</nameOfIssuer>
+		<titleOfClass>COM UNIT RP LP</titleOfClass>
+		<cusip>12592V100</cusip>
+		<value>10646</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>719300</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>719300</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CNX COAL RES LP</nameOfIssuer>
+		<titleOfClass>COM UNIT RP LP</titleOfClass>
+		<cusip>12592V100</cusip>
+		<value>22503</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1520500</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>1520500</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CONDUENT INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>206787103</cusip>
+		<value>53037</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3384600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>3384600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CONDUENT INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>206787103</cusip>
+		<value>14083</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>898700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>898700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CONDUENT INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>206787103</cusip>
+		<value>26274</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1676700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>1676700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CONSOL ENERGY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>20854P109</cusip>
+		<value>207771</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>12265110</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>12265110</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CONSOL ENERGY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>20854P109</cusip>
+		<value>60192</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3553265</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>3553265</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CONSOL ENERGY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>20854P109</cusip>
+		<value>114418</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>6754306</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>6754306</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>CONSOL ENERGY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>20854P109</cusip>
+		<value>1497</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>88400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>3</otherManager>
+		<votingAuthority>
+			<Sole>88400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DILLARDS INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>254067101</cusip>
+		<value>45191</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>805970</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>805970</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DILLARDS INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>254067101</cusip>
+		<value>12167</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>217000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>217000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DILLARDS INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>254067101</cusip>
+		<value>23628</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>421400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>421400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DILLARDS INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>254067101</cusip>
+		<value>3119</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>55630</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>3</otherManager>
+		<votingAuthority>
+			<Sole>55630</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DOLLAR TREE INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>256746108</cusip>
+		<value>4150</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>47800</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>47800</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DOLLAR TREE INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>256746108</cusip>
+		<value>1276</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>14700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>14700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DOLLAR TREE INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>256746108</cusip>
+		<value>2205</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>25400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>25400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DSW INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>23334L102</cusip>
+		<value>36170</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1683900</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>1683900</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DSW INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>23334L102</cusip>
+		<value>10669</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>496700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>496700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>DSW INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>23334L102</cusip>
+		<value>18653</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>868400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>868400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>EXELA TECHNOLOGIES INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>30162V102</cusip>
+		<value>22479</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>4587622</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>4587622</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>EXELA TECHNOLOGIES INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>30162V102</cusip>
+		<value>6763</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1380200</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>1380200</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>EXELA TECHNOLOGIES INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>30162V102</cusip>
+		<value>11842</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2416807</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>2416807</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>FREDS INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>356108100</cusip>
+		<value>5483</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>851400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>851400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>FREDS INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>356108100</cusip>
+		<value>828</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>128603</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>128603</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>FREDS INC</nameOfIssuer>
+		<titleOfClass>CL A</titleOfClass>
+		<cusip>356108100</cusip>
+		<value>2711</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>420900</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>420900</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GAP INC DEL</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>364760108</cusip>
+		<value>4208</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>142500</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>142500</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GAP INC DEL</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>364760108</cusip>
+		<value>1299</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>44000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>44000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GAP INC DEL</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>364760108</cusip>
+		<value>2244</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>76000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>76000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GENERAL MTRS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>37045V100</cusip>
+		<value>43764</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1083800</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<putCall>Call</putCall>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>1083800</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GENERAL MTRS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>37045V100</cusip>
+		<value>753709</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>18665398</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>18665398</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GENERAL MTRS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>37045V100</cusip>
+		<value>13604</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>336900</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<putCall>Call</putCall>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>336900</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GENERAL MTRS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>37045V100</cusip>
+		<value>234309</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>5802600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>5802600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GENERAL MTRS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>37045V100</cusip>
+		<value>23392</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>579300</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<putCall>Call</putCall>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>579300</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GENERAL MTRS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>37045V100</cusip>
+		<value>402839</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>9976202</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>9976202</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GENERAL MTRS CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>37045V100</cusip>
+		<value>4737</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>117300</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>3</otherManager>
+		<votingAuthority>
+			<Sole>117300</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GREEN BRICK PARTNERS INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>392709101</cusip>
+		<value>170199</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>17191821</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>17191821</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GREEN BRICK PARTNERS INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>392709101</cusip>
+		<value>34321</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3466793</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>3466793</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>GREEN BRICK PARTNERS INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>392709101</cusip>
+		<value>34255</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3460054</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>3460054</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>HEWLETT PACKARD ENTERPRISE C</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>42824C109</cusip>
+		<value>5110</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>347400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<putCall>Call</putCall>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>347400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>HEWLETT PACKARD ENTERPRISE C</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>42824C109</cusip>
+		<value>62129</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>4223601</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>4223601</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>HEWLETT PACKARD ENTERPRISE C</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>42824C109</cusip>
+		<value>1515</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>103000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<putCall>Call</putCall>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>103000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>HEWLETT PACKARD ENTERPRISE C</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>42824C109</cusip>
+		<value>19379</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1317399</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>1317399</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>HEWLETT PACKARD ENTERPRISE C</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>42824C109</cusip>
+		<value>2721</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>185000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<putCall>Call</putCall>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>185000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>HEWLETT PACKARD ENTERPRISE C</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>42824C109</cusip>
+		<value>33303</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2264000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>2264000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>KROGER CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>501044101</cusip>
+		<value>3946</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>196700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>196700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>KROGER CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>501044101</cusip>
+		<value>1220</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>60800</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>60800</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>KROGER CO</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>501044101</cusip>
+		<value>2102</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>104800</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>104800</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MICRON TECHNOLOGY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>595112103</cusip>
+		<value>107229</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2726400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>2726400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MICRON TECHNOLOGY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>595112103</cusip>
+		<value>33139</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>842600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>842600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MICRON TECHNOLOGY INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>595112103</cusip>
+		<value>57143</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1452900</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>1452900</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MONSANTO CO NEW</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>61166W101</cusip>
+		<value>28062</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>234200</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>234200</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MONSANTO CO NEW</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>61166W101</cusip>
+		<value>3834</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>32000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>32000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MONSANTO CO NEW</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>61166W101</cusip>
+		<value>14223</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>118700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>118700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MYLAN N V</nameOfIssuer>
+		<titleOfClass>SHS EURO</titleOfClass>
+		<cusip>N59465109</cusip>
+		<value>185809</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>5923159</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>5923159</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MYLAN N V</nameOfIssuer>
+		<titleOfClass>SHS EURO</titleOfClass>
+		<cusip>N59465109</cusip>
+		<value>50968</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1624748</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>1624748</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MYLAN N V</nameOfIssuer>
+		<titleOfClass>SHS EURO</titleOfClass>
+		<cusip>N59465109</cusip>
+		<value>96852</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3087400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>3087400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>MYLAN N V</nameOfIssuer>
+		<titleOfClass>SHS EURO</titleOfClass>
+		<cusip>N59465109</cusip>
+		<value>3419</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>109000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>3</otherManager>
+		<votingAuthority>
+			<Sole>109000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>PERRIGO CO PLC</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>G97822103</cusip>
+		<value>137821</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1628132</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>1628132</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>PERRIGO CO PLC</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>G97822103</cusip>
+		<value>35748</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>422300</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>422300</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>PERRIGO CO PLC</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>G97822103</cusip>
+		<value>72003</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>850600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>850600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>QUORUM HEALTH CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>74909E106</cusip>
+		<value>754</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>145625</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>145625</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>QUORUM HEALTH CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>74909E106</cusip>
+		<value>308</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>59375</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>59375</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>RITE AID CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>767754104</cusip>
+		<value>18813</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>9598289</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>9598289</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>RITE AID CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>767754104</cusip>
+		<value>2013</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1026900</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>1026900</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>RITE AID CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>767754104</cusip>
+		<value>9120</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>4653100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>4653100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+<infoTable>
+		<nameOfIssuer>STARS GROUP INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>85570W100</cusip>
+		<value>11142</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>545200</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>545200</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+<infoTable>
+		<nameOfIssuer>STARS GROUP INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>85570W100</cusip>
+		<value>23709</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1160100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>1160100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>STARS GROUP INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>85570W100</cusip>
+		<value>46134</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2257384</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>2257384</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TECH DATA CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>878237106</cusip>
+		<value>4327</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>48700</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>48700</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TECH DATA CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>878237106</cusip>
+		<value>1342</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>15100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>15100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TECH DATA CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>878237106</cusip>
+		<value>2328</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>26200</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>26200</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TEGNA INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>87901J105</cusip>
+		<value>18094</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1357400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>1357400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TEGNA INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>87901J105</cusip>
+		<value>4953</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>371600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>371600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TEGNA INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>87901J105</cusip>
+		<value>8944</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>671000</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>671000</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TEMPUR SEALY INTL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>88023U101</cusip>
+		<value>140099</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2171400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>2171400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TEMPUR SEALY INTL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>88023U101</cusip>
+		<value>43306</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>671200</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>671200</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>TEMPUR SEALY INTL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>88023U101</cusip>
+		<value>74675</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1157400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>1157400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VANECK VECTORS ETF TR</nameOfIssuer>
+		<titleOfClass>GOLD MINERS ETF</titleOfClass>
+		<cusip>92189F106</cusip>
+		<value>108719</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>4735135</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>4735135</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VANECK VECTORS ETF TR</nameOfIssuer>
+		<titleOfClass>GOLD MINERS ETF</titleOfClass>
+		<cusip>92189F106</cusip>
+		<value>17028</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>741650</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>741650</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VANECK VECTORS ETF TR</nameOfIssuer>
+		<titleOfClass>GOLD MINERS ETF</titleOfClass>
+		<cusip>92189F106</cusip>
+		<value>56668</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>2468111</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>2468111</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VAREX IMAGING CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>92214X106</cusip>
+		<value>12876</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>380500</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>380500</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VAREX IMAGING CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>92214X106</cusip>
+		<value>3387</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>100100</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>100100</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VAREX IMAGING CORP</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>92214X106</cusip>
+		<value>6240</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>184400</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>184400</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VENATOR MATLS PLC</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>G9329Z100</cusip>
+		<value>20991</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>928800</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>928800</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VENATOR MATLS PLC</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>G9329Z100</cusip>
+		<value>6409</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>283600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>283600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VENATOR MATLS PLC</nameOfIssuer>
+		<titleOfClass>SHS</titleOfClass>
+		<cusip>G9329Z100</cusip>
+		<value>11020</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>487600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>487600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VOYA FINL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>929089100</cusip>
+		<value>133373</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>3343512</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>SOLE</investmentDiscretion>
+		<votingAuthority>
+			<Sole>3343512</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VOYA FINL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>929089100</cusip>
+		<value>33292</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>834600</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>1</otherManager>
+		<votingAuthority>
+			<Sole>834600</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+	<infoTable>
+		<nameOfIssuer>VOYA FINL INC</nameOfIssuer>
+		<titleOfClass>COM</titleOfClass>
+		<cusip>929089100</cusip>
+		<value>69518</value>
+		<shrsOrPrnAmt>
+			<sshPrnamt>1742741</sshPrnamt>
+			<sshPrnamtType>SH</sshPrnamtType>
+		</shrsOrPrnAmt>
+		<investmentDiscretion>OTR</investmentDiscretion>
+		<otherManager>2</otherManager>
+		<votingAuthority>
+			<Sole>1742741</Sole>
+			<Shared>0</Shared>
+			<None>0</None>
+		</votingAuthority>
+	</infoTable>
+</informationTable>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

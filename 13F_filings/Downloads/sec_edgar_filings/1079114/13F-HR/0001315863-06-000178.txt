@@ -1,0 +1,192 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MtxP2m1oMc8c7KPn1yFCcdnLGdOyM6Yz+rHpA2h8dTYyAjEm/YkwC0CML5TNRYiA
+ yKknyTthEOQd4XTgxdCauQ==
+
+<SEC-DOCUMENT>0001315863-06-000178.txt : 20061114
+<SEC-HEADER>0001315863-06-000178.hdr.sgml : 20061114
+<ACCEPTANCE-DATETIME>20061114160726
+ACCESSION NUMBER:		0001315863-06-000178
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061114
+DATE AS OF CHANGE:		20061114
+EFFECTIVENESS DATE:		20061114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		061215128
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>gre36.txt
+<DESCRIPTION>GREENLIGHT CAPITAL 13F 3Q 2006
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: September 30, 2006
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Greenlight Capital, Inc.
+Address: 140 East 45th Street
+         24th Floor
+         New York, New York  10017
+
+13F File Number:  28-7484
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Daniel Roitman
+Title:     Chief Operating Officer
+Phone:     212.973.1900
+
+Signature, Place, and Date of Signing:
+
+     Daniel Roitman     New York, New York     November 14, 2006
+
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+
+
+
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         1
+
+Form13F Information Table Entry Total:     47
+
+Form13F Information Table Value Total:     $2,930,164 (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+No.  13F File Number               Name
+
+
+1    28-                           DME Advisors, L.P.
+<PAGE>
+
+
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+ALLIED CAP CORP NEW            PUT              01903Q958    14153   468500 SH  PUT  SOLE                   468500
+ALLIED CAP CORP NEW            PUT              01903Q958      952    31500 SH  PUT  SOLE    1               31500
+ALLIED CAP CORP NEW            CALL             01903Q908    28304   936900 SH  CALL SOLE                   936900
+ALLIED CAP CORP NEW            CALL             01903Q908     1906    63100 SH  CALL SOLE    1               63100
+AMERICAN HOME MTG INVT CORP    COM              02660R107    60468  1734100 SH       SOLE                  1734100
+AMERICAN HOME MTG INVT CORP    COM              02660R107     6482   185900 SH       SOLE    1              185900
+AMERIPRISE FINL INC            COM              03076C106   279927  5968600 SH       SOLE                  5968600
+AMERIPRISE FINL INC            COM              03076C106    20233   431400 SH       SOLE    1              431400
+CF INDS HLDGS INC              COM              125269100    79923  4682100 SH       SOLE                  4682100
+CF INDS HLDGS INC              COM              125269100     7772   455300 SH       SOLE    1              455300
+D R HORTON INC                 COM              23331A109    67003  2797600 SH       SOLE                  2797600
+D R HORTON INC                 COM              23331A109     4847   202400 SH       SOLE    1              202400
+FIELDSTONE INVT CORP           COM              31659U300    17732  2031150 SH       SOLE                  2031150
+FIELDSTONE INVT CORP           COM              31659U300     3240   371100 SH       SOLE    1              371100
+FIRST DATA CORP                COM              319963104    28984   690100 SH       SOLE                   690100
+FIRST DATA CORP                COM              319963104     2096    49900 SH       SOLE    1               49900
+FLAMEL TECHNOLOGIES SA         SPONSORED ADR    338488109    26909  1435145 SH       SOLE                  1435145
+FLAMEL TECHNOLOGIES SA         SPONSORED ADR    338488109     2098   111900 SH       SOLE    1              111900
+FREESCALE SEMICONDUCTOR INC    COM CL A         35687M107   367885  9668459 SH       SOLE                  9668459
+FREESCALE SEMICONDUCTOR INC    COM CL A         35687M107     6162   161950 SH       SOLE    1              161950
+FREESCALE SEMICONDUCTOR INC    CL B             35687M206   371546  9774950 SH       SOLE                  9774950
+FREESCALE SEMICONDUCTOR INC    CL B             35687M206    51519  1355400 SH       SOLE    1             1355400
+GENWORTH FINL INC              COM CL A         37247D106    83856  2395200 SH       SOLE                  2395200
+GENWORTH FINL INC              COM CL A         37247D106     6361   181700 SH       SOLE    1              181700
+HOSPIRA INC                    COM              441060100   211821  5534917 SH       SOLE                  5534917
+HOSPIRA INC                    COM              441060100    16697   436283 SH       SOLE    1              436283
+INTERNATIONAL COAL GRP INC N   COM              45928H106    11260  2668361 SH       SOLE                  2668361
+LIVE NATION INC                COM              538034109    10823   530000 SH       SOLE                   530000
+LIVE NATION INC                COM              538034109      782    38300 SH       SOLE    1               38300
+M D C HLDGS INC                COM              552676108   180967  3895950 SH       SOLE                  3895950
+M D C HLDGS INC                COM              552676108    15124   325600 SH       SOLE    1              325600
+MERCER INTL INC                COM              588056101    17887  1894830 SH       SOLE                  1894830
+MERCER INTL INC                NOTE  8.500%10/1 588056AG6    20538 15500000 PRN      SOLE                 15500000
+MI DEVS INC                    CL A SUB VTG     55304X104   172409  4730000 SH       SOLE                  4730000
+MICROSOFT CORP                 COM              594918104   227322  8311600 SH       SOLE                  8311600
+MICROSOFT CORP                 COM              594918104    16093   588400 SH       SOLE    1              588400
+MICROSOFT CORP                 CALL             594918904    33077  1209400 SH  CALL SOLE                  1209400
+MICROSOFT CORP                 CALL             594918904     2341    85600 SH  CALL SOLE    1               85600
+NEW CENTURY FINANCIAL CORP M   COM              6435EV108   137377  3494700 SH       SOLE                  3494700
+RADISYS CORP                   COM              750459109    16635   782821 SH       SOLE                   782821
+RADISYS CORP                   COM              750459109     1205    56700 SH       SOLE    1               56700
+RESEARCH IN MOTION LTD         PUT              760975952   114876  1119100 SH  PUT  SOLE                  1119100
+RESEARCH IN MOTION LTD         PUT              760975952     8304    80900 SH  PUT  SOLE    1               80900
+TERNIUM SA                     SPON ADR         880890108    10936   472200 SH       SOLE                   472200
+TERNIUM SA                     SPON ADR         880890108      760    32800 SH       SOLE    1               32800
+WASHINGTON GROUP INTL INC      COM NEW          938862208   151860  2580012 SH       SOLE                  2580012
+WASHINGTON GROUP INTL INC      COM NEW          938862208    10712   181988 SH       SOLE    1              181988
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

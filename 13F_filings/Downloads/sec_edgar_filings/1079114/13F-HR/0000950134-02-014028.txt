@@ -1,0 +1,229 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WqPLTysFsVRQ8VTT4Pi9WJ5wHo7fGG0FRQPRaWJfrh0d7qPH8LspUlfoetGrcGuu
+ TSheiXNERD3tq2HuaFdPjw==
+
+<SEC-DOCUMENT>0000950134-02-014028.txt : 20021113
+<SEC-HEADER>0000950134-02-014028.hdr.sgml : 20021113
+<ACCEPTANCE-DATETIME>20021113102220
+ACCESSION NUMBER:		0000950134-02-014028
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20020930
+FILED AS OF DATE:		20021113
+EFFECTIVENESS DATE:		20021113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		02818680
+
+	BUSINESS ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		420 LEXINGTON AVE
+		STREET 2:		SUITE 875
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10170
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>d01254e13fvhr.txt
+<DESCRIPTION>FORM 13F HOLDINGS REPORT
+<TEXT>
+<PAGE>
+                               UNITED STATES
+                    SECURITIES AND EXCHANGE COMMISSION
+                          WASHINGTON, D.C. 20549
+
+                                 FORM 13F
+
+                            FORM 13F COVER PAGE
+
+               Report for the Quarter Ended September 30, 2002.
+
+Check here if Amendment [   ]; Amendment Number:
+This Amendment (Check only one.):  [   ]  is a restatement.
+                                   [   ]  adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:     Greenlight Capital, Inc.
+Address:  420 Lexington Avenue, Suite 1740
+          New York, NY   11111
+
+13F File Number:    28-7484
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:     Jeff Keswin
+Title:    Co-President
+Phone:    (212) 973-1900
+Signature, Place, and Date of Signing:
+
+     /s/ JEFF KESWIN          New York, New York       November 12, 2002
+     ---------------          ------------------       -----------------
+
+Report Type (Check only one.):
+
+[ X ]     13F HOLDINGS REPORT.
+
+[   ]     13F NOTICE.
+
+[   ]     13F COMBINATION REPORT.
+
+List of Other Managers Reporting for this Manager:
+
+
+I AM SIGNING THIS REPORT AS REQUIRED BY THE SECURITIES EXCHANGE ACT OF 1934.
+
+
+
+<PAGE>
+
+                           FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:           0
+
+Form 13F Information Table Entry Total:      43
+
+Form 13F Information Table Value Total:      $714,265
+
+
+List of Other Included Managers:
+
+No.       13F File Number               Name
+- ---       ---------------               ----
+
+
+
+<PAGE>
+
+                           FORM 13F INFORMATION TABLE
+
+<Table>
+<Caption>
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+COLUMN 1           COLUMN 2      COLUMN 3      COLUMN 4          COLUMN 5            COLUMN 6      COLUMN 7           COLUMN 8
+- ------------------------------------------------------------------------------------------------------------------------------------
+NAMES OF           TITLE OF                     VALUE       SHRS OR   SH/   PUT/    INVESTMENT      OTHER        VOTING AUTHORITY
+ ISSUER             CLASS          CUSIP       [x$1000]     PRN AMT   PRN   CALL    DISCRETION     MANAGERS    SOLE   SHARED   NONE
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                <C>           <C>           <C>         <C>        <C>   <C>     <C>            <C>       <C>      <C>      <C>
+ADVANCED MEDICAL    COM          00763M108     27,294      2,670,000  SH            SOLE                     2,670,000
+ OPTICS INC
+ARCH COAL INC       COM          039380100     47,186      2,851,100  SH            SOLE                     2,851,100
+BINDVIEW DEV CORP   COM          090327107      1,126      1,340,300  SH            SOLE                     1,340,300
+CIT GROUP INC       COM          125581108      8,505        473,000  SH            SOLE                       473,000
+CNA FINL CORP       COM          126117100     18,750        750,000  SH            SOLE                       750,000
+CELLSTAR CORP       NOTE         150925AC9      1,700         20,000  PRN           SOLE                        20,000
+                    5.000%10/1
+CENDANT CORP        COM          151313103     28,514      2,650,000  SH            SOLE                     2,650,000
+CITIGROUP INC       COM          172967101     11,860        400,000  SH            SOLE                       400,000
+DISCOVERY           COM          254668106        340        180,769  SH            SOLE                       180,769
+ LABORATORIES
+ INC N
+DOLLAR THRIFTY      COM          256743105      8,574        534,200  SH            SOLE                       534,200
+ AUTOMOTIVE GP
+EMCOR GROUP INC     COM          29084Q100     13,663        274,900  SH            SOLE                       274,900
+ENDO                COM          29264F205     14,396      1,667,500  SH            SOLE                     1,667,500
+ PHARMACEUTICALS
+ HLDGS INC
+GEMSTAR-TV GUIDE    COM          36866W106     23,343      9,263,000  SH            SOLE                     9,263,000
+ INTL INC
+IDT CORP            CL B         448947309     38,325      2,500,000  SH            SOLE                     2,500,000
+INSIGNIA FINL       COM          45767A105     13,090      1,667,500  SH            SOLE                     1,667,500
+ GROUP INC NEW
+IOMEGA CORP         COM NEW      462030305     36,068      3,374,000  SH            SOLE                     3,374,000
+LIBERTY MEDIA       COM SER A    530718105     30,156      4,200,000  SH            SOLE                     4,200,000
+   CORP NEW
+M D C HLDGS INC     COM          552676108     92,217      2,612,382  SH            SOLE                     2,612,382
+MACROVISION CORP    COM          555904101     13,453      1,100,000  SH            SOLE                     1,100,000
+MAGNA ENTMT CORP    CL A         559211107      3,923        721,200  SH            SOLE                       721,200
+MERCER INTL INC     SH BEN INT   588056101     14,803      2,517,500  SH            SOLE                     2,517,500
+MONSANTO CO NEW     COM          61166W101      3,058        200,000  SH            SOLE                       200,000
+NATURAL             NOTE         638882AA8      3,074         53,000  PRN           SOLE                        53,000
+ MICROSYSTEMS       5.000%10/1
+ CORP
+NEOMAGIC CORP       COM          640497103      2,903      2,791,000  SH            SOLE                     2,791,000
+NEOPHARM INC        COM          640919106     12,221        866,770  SH            SOLE                       866,770
+NEW CENTURY         COM          64352D101      4,984        213,000  SH            SOLE                       213,000
+ FINANCIAL CORP
+NORTH AMERN         COM          65915D100      3,177        416,400  SH            SOLE                       416,400
+ SCIENTIFIC INC
+</Table>
+
+
+
+<PAGE>
+
+<Table>
+<Caption>
+- ------------------------------------------------------------------------------------------------------------------------------------
+
+COLUMN 1           COLUMN 2      COLUMN 3      COLUMN 4          COLUMN 5            COLUMN 6      COLUMN 7           COLUMN 8
+- ------------------------------------------------------------------------------------------------------------------------------------
+NAMES OF           TITLE OF                     VALUE       SHRS OR   SH/   PUT/    INVESTMENT      OTHER        VOTING AUTHORITY
+ ISSUER             CLASS          CUSIP       [x$1000]     PRN AMT   PRN   CALL    DISCRETION     MANAGERS    SOLE   SHARED   NONE
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                <C>           <C>           <C>         <C>        <C>   <C>     <C>            <C>       <C>      <C>      <C>
+OPTI INC            COM          683960108        470        408,700  SH            SOLE                       408,700
+PATINA OIL & GAS    COM          703224105     68,845      2,415,625  SH            SOLE                     2,415,625
+ CORP
+PROVIDIAN FINL      COM          74406A102        926        189,000  SH            SOLE                       189,000
+ CORP
+PROVIDIAN FINL      SR NT CV     74406AAA0      9,280        145,000  PRN           SOLE                       145,000
+ CORP               3.25%05
+PRUDENTIAL FINL     COM          744320102     29,531      1,034,000  SH            SOLE                     1,034,000
+ INC
+SAFEGUARD           SB NT CV     786449AE8      4,495         77,500  PRN           SOLE                        77,500
+ SCIENTIFICS INC    5%06
+SAXON CAPITAL INC   COM          80556P302      7,196        650,000  SH            SOLE                       650,000
+SILICON GRAPHICS    COM          827056102      6,042      7,367,200  SH            SOLE                     7,367,200
+ INC
+SILICON GRAPHICS    NOTE 5.250%  827056AC6      2,470         47,500  PRN           SOLE                        47,500
+ INC                9/0
+STAGE STORES INC    COM NEW      85254C305     42,072      1,939,700  SH            SOLE                     1,939,700
+SYCAMORE NETWORKS   COM          871206108     23,500     10,000,000  SH            SOLE                    10,000,000
+ INC
+3 COM CORP          COM          885535104      7,124      1,808,200  SH            SOLE                     1,808,200
+UICI                COM          902737105     13,871        853,100  SH            SOLE                       853,100
+U S INDS INC NEW    COM          912080108      3,493      1,486,500  SH            SOLE                     1,486,500
+VISTEON CORP        COM          92839U107      8,707        919,400  SH            SOLE                       919,400
+WYETH               COM          983024100      9,540        300,000  SH            SOLE                       300,000
+</Table>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

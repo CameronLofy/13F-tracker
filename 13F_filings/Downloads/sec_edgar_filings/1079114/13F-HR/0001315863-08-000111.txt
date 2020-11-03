@@ -1,0 +1,201 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IyH79A3OgsOcIagrW61/XgT8LeIeWVQKIaR3AvcxJyLKBolwI0aBgovRqgE2X+lO
+ NASGfdnGqXNtZG5fEzG+lQ==
+
+<SEC-DOCUMENT>0001315863-08-000111.txt : 20080515
+<SEC-HEADER>0001315863-08-000111.hdr.sgml : 20080515
+<ACCEPTANCE-DATETIME>20080515161038
+ACCESSION NUMBER:		0001315863-08-000111
+CONFORMED SUBMISSION TYPE:	13F-HR
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20080331
+FILED AS OF DATE:		20080515
+DATE AS OF CHANGE:		20080515
+EFFECTIVENESS DATE:		20080515
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GREENLIGHT CAPITAL INC
+		CENTRAL INDEX KEY:			0001079114
+		IRS NUMBER:				000000000
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-07484
+		FILM NUMBER:		08837766
+
+	BUSINESS ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2129731900
+
+	MAIL ADDRESS:	
+		STREET 1:		140 EAST 45TH STREET
+		STREET 2:		24TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR
+<SEQUENCE>1
+<FILENAME>greenl18.txt
+<DESCRIPTION>GREENLIGHT CAPITAL 13F 1Q 2008
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+
+                                    Form 13F
+
+                              Form 13F COVER PAGE
+
+Report for the Calendar Year or Quarter Ended: March 31, 2008
+
+Check here if Amendment [  ]; Amendment Number:
+This Amendment (Check only one.): [  ] is a restatement.
+                                  [  ] adds new holdings entries.
+
+Institutional Investment Manager Filing this Report:
+
+Name:    Greenlight Capital, Inc.
+Address: 140 East 45th Street
+         24th Floor
+         New York, New York  10017
+
+13F File Number:  28-7484
+
+The institutional investment manager filing this report and the person by whom
+it is signed hereby represent that the person signing the report is authorized
+to submit it, that all information contained herein is true, correct and
+complete, and that it is understood that all required items, statements,
+schedules, lists, and tables, are considered integral parts of this form.
+
+Person Signing this Report on Behalf of Reporting Manager:
+
+Name:      Daniel Roitman
+Title:     Chief Operating Officer
+Phone:     212.973.1900
+
+Signature, Place, and Date of Signing:
+
+     Daniel Roitman     New York, New York     May 15, 2008
+
+
+Report Type (Check only one.):
+
+[ X]         13F HOLDINGS REPORT.
+
+[  ]         13F NOTICE.
+
+[  ]         13F COMBINATION REPORT.
+
+
+
+
+
+<PAGE>
+
+                              FORM 13F SUMMARY PAGE
+
+
+Report Summary:
+
+Number of Other Included Managers:         1
+
+Form13F Information Table Entry Total:     56
+
+Form13F Information Table Value Total:     $2,746,568 (thousands)
+
+
+List of Other Included Managers:
+
+Provide a numbered list of the name(s) and Form 13F file number(s) of all
+institutional managers with respect to which this report is filed, other
+than the manager filing this report.
+
+No.  13F File Number               Name
+
+
+1    28-                           DME Advisors, L.P.
+<PAGE>
+
+
+
+<TABLE>                       <C>             <C>
+                                                     FORM 13F INFORMATION TABLE
+                                                             VALUE  SHARES/ SH/ PUT/ INVSTMT  OTHER            VOTING AUTHORITY
+NAME OF ISSUER                 TITLE OF CLASS   CUSIP     (x$1000)  PRN AMT PRN CALL DSCRETN MANAGERS         SOLE   SHARED     NONE
+- ------------------------------ ---------------- --------- -------- -------- --- ---- ------- ------------ -------- -------- --------
+AMERIPRISE FINL INC            COM              03076C106   298703  5760907 SH       SOLE                  5760907
+AMERIPRISE FINL INC            COM              03076C106    43528   839500 SH       SOLE    1              839500
+BEAZER HOMES USA INC           NOTE 4.625% 6/1  07556QAL9     4217  6247400 PRN      SOLE                  6247400
+BEAZER HOMES USA INC           NOTE 4.625% 6/1  07556QAL9      619   917600 PRN      SOLE    1              917600
+BIOFUEL ENERGY CORP            COM              09064Y109    27914  6094661 SH       SOLE                  6094661
+BIOFUEL ENERGY CORP            COM              09064Y109     6629  1447443 SH       SOLE    1             1447443
+COVIDIEN LTD                   COM              G2552X108   131856  2979800 SH       SOLE                  2979800
+COVIDIEN LTD                   COM              G2552X108    18594   420200 SH       SOLE    1              420200
+DANA HOLDING CORP              COM              235825205     8856   885600 SH       SOLE                   885600
+DANA HOLDING CORP              COM              235825205     1304   130400 SH       SOLE    1              130400
+DISCOVER FINL SVCS             COM              254709108    46925  2866498 SH       SOLE                  2866498
+DISCOVER FINL SVCS             COM              254709108     6915   422402 SH       SOLE    1              422402
+ECHOSTAR CORP                  CL A             278768106    46059  1559191 SH       SOLE                  1559191
+ECHOSTAR CORP                  CL A             278768106     6683   226225 SH       SOLE    1              226225
+EINSTEIN NOAH REST GROUP INC   COM              28257U104    85458  9983469 SH       SOLE                  9983469
+EINSTEIN NOAH REST GROUP INC   COM              28257U104     6420   750000 SH       SOLE    1              750000
+EMPLOYERS HOLDINGS INC         COM              292218104    40606  2190200 SH       SOLE                  2190200
+EMPLOYERS HOLDINGS INC         COM              292218104     2499   134800 SH       SOLE    1              134800
+ENERGY PARTNERS LTD            COM              29270U105    13069  1380091 SH       SOLE                  1380091
+ENERGY PARTNERS LTD            COM              29270U105     1907   201369 SH       SOLE    1              201369
+FLAMEL TECHNOLOGIES SA         SPONSORED ADR    338488109    12872  1381076 SH       SOLE                  1381076
+FLAMEL TECHNOLOGIES SA         SPONSORED ADR    338488109     1327   142398 SH       SOLE    1              142398
+GUARANTY FINL GROUP INC        COM              40108N106    26788  2522374 SH       SOLE                  2522374
+GUARANTY FINL GROUP INC        COM              40108N106     3887   365971 SH       SOLE    1              365971
+HEALTH MGMT ASSOC INC NEW      CL A             421933102    97326 18398204 SH       SOLE                 18398204
+HEALTH MGMT ASSOC INC NEW      CL A             421933102    14271  2697661 SH       SOLE    1             2697661
+HELIX ENERGY SOLUTIONS GRP I   COM              42330P107   170220  5403807 SH       SOLE                  5403807
+HELIX ENERGY SOLUTIONS GRP I   COM              42330P107    26241   833047 SH       SOLE    1              833047
+M D C HLDGS INC                COM              552676108   179732  4104400 SH       SOLE                  4104400
+M D C HLDGS INC                COM              552676108    14258   325600 SH       SOLE    1              325600
+MBIA INC                       COM              55262C100      157    12880 SH       SOLE                    12880
+MERCER INTL INC                COM              588056101     3192   457945 SH       SOLE                   457945
+MERCER INTL INC                NOTE 8.500%10/1  588056AG6    16430 15500000 PRN      SOLE                 15500000
+MI DEVS INC                    CL A SUB VTG     55304X104   135846  4730000 SH       SOLE                  4730000
+MI DEVS INC                    CL A SUB VTG     55304X104     7036   245000 SH       SOLE    1              245000
+MICROSOFT CORP                 COM              594918104   370495 13054800 SH       SOLE                 13054800
+MICROSOFT CORP                 COM              594918104    53644  1890200 SH       SOLE    1             1890200
+PATRIOT COAL CORP              COM              70336T104    52537  1118533 SH       SOLE                  1118533
+PATRIOT COAL CORP              COM              70336T104     7668   163246 SH       SOLE    1              163246
+SAIC INC                       COM              78390X101    56451  3036611 SH       SOLE                  3036611
+SAIC INC                       COM              78390X101     8319   447487 SH       SOLE    1              447487
+SEARS HLDGS CORP               COM              812350106      117     1150 SH       SOLE                     1150
+TARGET CORP                    COM              87612E106   371572  7331725 SH       SOLE                  7331725
+TARGET CORP                    COM              87612E106    53919  1063906 SH       SOLE    1             1063906
+TRIPLE-S MGMT CORP             CL B             896749108    18806  1065490 SH       SOLE                  1065490
+TRIPLE-S MGMT CORP             CL B             896749108     2745   155500 SH       SOLE    1              155500
+TYCO ELECTRONICS LTD           COM NEW          G9144P105     4487   130739 SH       SOLE                   130739
+TYCO ELECTRONICS LTD           COM NEW          G9144P105      663    19317 SH       SOLE    1               19317
+URS CORP NEW                   COM              903236107   110409  3377441 SH       SOLE                  3377441
+URS CORP NEW                   COM              903236107    16265   497559 SH       SOLE    1              497559
+US BIOENERGY CORP              COM              90342V109    11268  1909827 SH       SOLE                  1909827
+US BIOENERGY CORP              COM              90342V109     1605   272041 SH       SOLE    1              272041
+WALGREEN CO                    COM              931422109    66699  1751100 SH       SOLE                  1751100
+WALGREEN CO                    COM              931422109     9481   248900 SH       SOLE    1              248900
+WELLPOINT INC                  COM              94973V107    18369   416257 SH       SOLE                   416257
+WELLPOINT INC                  COM              94973V107     2705    61300 SH       SOLE    1               61300
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

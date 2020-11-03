@@ -3,10 +3,10 @@ import time
 from bs4 import BeautifulSoup
 import requests
 from html_parse import *
+import os
 
-DRIVER_PATH = 'C:/Programming/chromedriver.exe'
-driver = webdriver.Chrome(executable_path=DRIVER_PATH)
-driver.get('https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=&dateb=&owner=exclude&start=0&count=40')
+from sec_edgar_downloader import Downloader
+
 
 #driver.get('https://www.sec.gov/Archives/edgar/data/1067983')
 '''
@@ -39,59 +39,113 @@ def get_date_name(url):
 	page = requests.get(url)
 	html_txt = page.text
 	soup = BeautifulSoup(page.content, 'html.parser')
-	return date, name
+	#print(soup)
 
+	# TODO: get name and date
+	#
+	# Finish code here!
+	#
 
-all_links_done = False
-links={}
+	name_data = soup.find('span', class_="companyName")
+	name_seg = name_data.get_text()
+	print(name_seg)
+	filer_index = name_seg.find("(Filer)")
+	filer_name = name_seg[:filer_index-1]
+	cik_index = name_seg.find("CIK") + 5 
+	cik = name_seg[cik_index:cik_index+10]
 
-#while(all_links_done is False):
-for i in range(3):
-	all_rows = driver.find_elements_by_tag_name('tr')
 	
-	for row in all_rows:
-		#print(row)
-		#print(row.text)
-		if('13F' in row.text):
-			print(row.text)
-			link = row.find_element_by_id('documentsbutton').get_attribute('href')
-			print(link)
-			date = row.find_element_by_xpath('td[4]').text
-			print(date)
-			links[link] = date
-	if(check_next_page() == False):
-		all_links_done = True
-print(links)
-# Now have all links to 13F pages but need to get the tables from those pages
 
-table_links={}
-submission = False
-# Open each link and find the table link
-for link in links.keys():
-	driver.get(link)
-	table_rows = driver.find_elements_by_tag_name('tr')
-	for item in table_rows:
-		if(('html' and 'TABLE') in item.text):
-			table_link = item.find_element_by_tag_name('a').get_attribute('href')
-			break
-		# if no html file get the submission text
-		if('Complete submission text file' in item.text):
-			table_link = item.find_element_by_tag_name('a').get_attribute('href')
-			submission = True
-	table_links[table_link] = links[link]
-print(table_links)
+	return cik, filer_name
+	#return date, name
 
 
-# Now open each table link
-final_list = []
-for link in table_links.keys():
-	final_list.append(parse_page(link))
-print(final_list)
+
+def driver_13f():
+	global driver
+	DRIVER_PATH = 'C:/Programming/chromedriver.exe'
+	driver = webdriver.Chrome(executable_path=DRIVER_PATH)
+	driver.get('https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=&dateb=&owner=exclude&start=0&count=40')
+
+	all_links_done = False
+	links={}
+
+	#while(all_links_done is False):
+	for i in range(3):
+		all_rows = driver.find_elements_by_tag_name('tr')
+		
+		for row in all_rows:
+			#print(row)
+			#print(row.text)
+			if('13F' in row.text):
+				print(row.text)
+				link = row.find_element_by_id('documentsbutton').get_attribute('href')
+				print(link)
+				date = row.find_element_by_xpath('td[4]').text
+				print(date)
+				links[link] = date
+		if(check_next_page() == False):
+			all_links_done = True
+	print(links)
+	# Now have all links to 13F pages but need to get the tables from those pages
+
+	table_links={}
+	submission = False
+	# Open each link and find the table link
+	for link in links.keys():
+		driver.get(link)
+		table_rows = driver.find_elements_by_tag_name('tr')
+		for item in table_rows:
+			# if(('html' and 'TABLE') in item.text):
+			# 	table_link = item.find_element_by_tag_name('a').get_attribute('href')
+			# 	break
+			# if no html file get the submission text
+			if('Complete submission text file' in item.text):
+				table_link = item.find_element_by_tag_name('a').get_attribute('href')
+				submission = True
+		table_links[table_link] = links[link]
+	print(table_links)
 
 
-driver.close()
-# row = driver.find_element_by_xpath('//*[@id="seriesDiv"]/table/tbody/tr[2]').text
-# print(row)
-#//*[@id="seriesDiv"]/table/tbody/tr[3]/td[1]
+	# Now open each table link
+	final_list = []
+	i=0
+	for link in table_links.keys():
+		# Enter date and name values here
+		final_list.append(parse_page(link))
+		i+=1
+	print(final_list)
 
 
+	driver.close()
+	# row = driver.find_element_by_xpath('//*[@id="seriesDiv"]/table/tbody/tr[2]').text
+	# print(row)
+	#//*[@id="seriesDiv"]/table/tbody/tr[3]/td[1]
+
+def downloader_13F(CIK):
+	dl = Downloader("./13F_filings/Downloads")
+	dl.get("13F-HR", CIK)
+
+
+if __name__== "__main__":
+	# print(get_date_name('https://www.sec.gov/Archives/edgar/data/1079114/000117266120001844/0001172661-20-001844-index.htm'))
+	# print(get_date_name('https://www.sec.gov/Archives/edgar/data/1535859/000160658720001163/0001606587-20-001163-index.htm'))
+	# print(get_date_name('https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/0000950123-20-009058-index.htm'))
+
+	#downloader_13F('0001079114')
+	#0001172661-20-000807.txt
+	#0000929638-08-000813.txt
+	xml = open('./13F_filings/Downloads/sec_edgar_filings/1079114/13F-HR/0001172661-20-000807.txt').read()
+	page = requests.get('https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/0000950123-20-009058.txt')
+	html_txt = page.text
+	soup = BeautifulSoup(html_txt, 'lxml')
+
+	import pandas as pd
+	print(soup)
+	print(soup.find("signaturedate"))
+	driver_13f()
+
+
+	# for root, dirs, files in os.walk("./13F_filings/Downloads/sec_edgar_filings/1079114/13F-HR"):
+	#     for filename in files:
+	#         print(filename)
