@@ -55,6 +55,8 @@ def parse_page(url):
 	df_2 = df.iloc[:1]
 	#print(df_2)
 
+
+	# Edit so that it's not editing the datframe and instead using lists and then putting final results in dataframe
 	for i in range(1,len(df)):
 		if(df.iloc[i]["CUSIP"] == df.iloc[i-1]["CUSIP"]):
 			# add rows together
@@ -88,34 +90,42 @@ def parse_page(url):
 	# #print(stock_list)
 	return df_2
 		
+#
+################################ FINISH THIS FUNCTION #########################################
+#
+def compare_df(df_1,df_2):
+	# already given data frames
+	name_list = []
+	for i in range(min(len(df_1), len(df_2)):
+		print("place holder for code")
+		# go through until end of shortest list
+		# and then finish going through the rest of the other list
+
+
+
+
+def get_2_latest_summary(company_id):
+	current_dir = "./13F_filings/13F_Summary"
+	for root, dirs, files in os.walk(current_dir):
+	    for directory in dirs:
+	    	if company_id in directory:
+	    		files = os.listdir(f"{current_dir}/{directory}")
+	    		files.sort(reverse=True)
+	    		print(files)
+	    		df_1 = pd.read_csv(f"{current_dir}/{directory}/{files[0]}")
+	    		df_2 = pd.read_csv(f"{current_dir}/{directory}/{files[1]}")
+	    		return df_1, df_2
 	
 
 if __name__== "__main__":
 	#print("starting function")
 	#print(parse_page('https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/xslForm13F_X01/960.xml'))
-	print(parse_page('https://www.sec.gov/Archives/edgar/data/1079114/000117266120001844/0001172661-20-001844.txt'))
 	
-# 	for i in range(3):
-# 		print(data1[i].get_text())
-# 		stock.append(data1[i].get_text())
-# 	for i in range(2):
-# 		print(data2[i].get_text())
-# 		stock.append(data2[i].get_text())
+	#print(parse_page('https://www.sec.gov/Archives/edgar/data/1079114/000117266120001844/0001172661-20-001844.txt'))
+	try:
+		compare_df(get_2_latest_summary("0001067983"))
 
-# 	stock_list.append(stock)
-# print(stock_list)
-	#print(x)
-# td_list =[]
-# for data in tr_list:
-# 	data_list = data.find_all('td')
-# 	for item in data_list:
-# 		print(item[0].get_text())
-# 	if(('FormText' or 'FormTextR') in data_list):
-# 		td_list.append(data_list)
-#print(td_list)
-
-# for seg in td_list:
-# 	print(seg)
-#print(td_list)
+	except:
+		print("no two 13F files found")
 	
 

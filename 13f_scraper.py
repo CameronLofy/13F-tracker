@@ -128,21 +128,6 @@ def downloader_13F(CIK):
 
 
 if __name__== "__main__":
-	# print(get_date_name('https://www.sec.gov/Archives/edgar/data/1079114/000117266120001844/0001172661-20-001844-index.htm'))
-	# print(get_date_name('https://www.sec.gov/Archives/edgar/data/1535859/000160658720001163/0001606587-20-001163-index.htm'))
-	# print(get_date_name('https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/0000950123-20-009058-index.htm'))
-
-	#downloader_13F('0001079114')
-	#0001172661-20-000807.txt
-	#0000929638-08-000813.txt
-	xml = open('./13F_filings/Downloads/sec_edgar_filings/1079114/13F-HR/0001172661-20-000807.txt').read()
-	page = requests.get('https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/0000950123-20-009058.txt')
-	html_txt = page.text
-	soup = BeautifulSoup(html_txt, 'lxml')
-
-	import pandas as pd
-	print(soup)
-	print(soup.find("signaturedate"))
 	driver_13f()
 
 
