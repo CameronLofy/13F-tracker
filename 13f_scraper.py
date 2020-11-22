@@ -61,11 +61,12 @@ def get_date_name(url):
 
 
 
-def driver_13f():
+def driver_13f(url):
 	global driver
 	DRIVER_PATH = 'C:/Programming/chromedriver.exe'
 	driver = webdriver.Chrome(executable_path=DRIVER_PATH)
-	driver.get('https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=&dateb=&owner=exclude&start=0&count=40')
+	driver.get(url)
+	#driver.get('https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&type=&dateb=&owner=exclude&start=0&count=40')
 
 	all_links_done = False
 	links={}
@@ -128,8 +129,8 @@ def downloader_13F(CIK):
 
 
 if __name__== "__main__":
-	driver_13f()
-
+	#driver_13f('https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001096343&type=&dateb=&owner=exclude&start=0&count=40')
+	driver_13f('https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001067983&owner=exclude&count=40')
 
 	# for root, dirs, files in os.walk("./13F_filings/Downloads/sec_edgar_filings/1079114/13F-HR"):
 	#     for filename in files:
