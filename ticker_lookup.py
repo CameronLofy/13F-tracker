@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 import os
+from SQL import test_mysql_connection as sql_functions
 
 def ticker_lookup(file_path):
 	
@@ -36,51 +37,80 @@ def ticker_lookup(file_path):
 	name_list = []
 	isin_list = []
 	if(len(cusip_list) >0):
-		DRIVER_PATH = 'C:/Programming/chromedriver.exe'
-		driver = webdriver.Chrome(executable_path=DRIVER_PATH)
-		driver.get('https://stockmarketmba.com/symbollookupusingidentifier.php')
-		time.sleep(1)
-
 		if(cusip_list[0] == 'CUSIP'):
 			cusip_list.remove('CUSIP')
 			print(cusip_list)
-		for cusip in cusip_list:
+		if(len(cusip_list) >0):
+
+			DRIVER_PATH = 'C:/Programming/chromedriver.exe'
+			driver = webdriver.Chrome(executable_path=DRIVER_PATH)
+			driver.get('https://stockmarketmba.com/symbollookupusingidentifier.php')
+			time.sleep(3)
+
 			
-			driver.find_element_by_xpath('//*[@id="search"]').send_keys(f'{cusip}\n')
+			old_sym = ''
+			old_name = ''
+			cusip_to_remove = []
+			for cusip in cusip_list:
+				
+				driver.find_element_by_xpath('//*[@id="search"]').send_keys(f'{cusip}\n')
 
-			time.sleep(2)
-			try:
-				symbol = driver.find_element_by_xpath('//*[@id="searchtable"]/tbody/tr[1]/td[1]').text
-				name = driver.find_element_by_xpath('//*[@id="searchtable"]/tbody/tr/td[2]').text
-				isin = driver.find_element_by_xpath('//*[@id="searchtable"]/tbody/tr/td[5]').text
-				if(':' in symbol):
-					sym_index = symbol.find(':')
-					symbol = symbol[sym_index+1:]
-				if(',' in name):
-					count = name.count(',')
-					name = list(name)
-					for i in range(count):
-						name.remove(',')
-					name = ''.join(name)
-				ticker_list.append(symbol)
-				name_list.append(name)
-				isin_list.append(isin)
-			except:
-				print(f"Could not find {cusip}")
-				with open('failed_ticker_searches.csv', mode='a+',newline='') as ticker_file:
-					ticker_writer = csv.writer(ticker_file, delimiter=',', quotechar="'", quoting=csv.QUOTE_MINIMAL)
-					ticker_writer.writerow([cusip, file_path])
-					cusip_list.remove(cusip)
-		print(ticker_list)
-		print(name_list)
-		print(isin_list)
+				time.sleep(5)
+				try:
+					symbol = driver.find_element_by_xpath('//*[@id="searchtable"]/tbody/tr[1]/td[1]').text
+					
+					while(symbol == old_sym):
+						time.sleep(5)
+						driver.find_element_by_xpath('//*[@id="search"]').send_keys(f'{cusip}\n')
+						time.sleep(5)
+						symbol = driver.find_element_by_xpath('//*[@id="searchtable"]/tbody/tr[1]/td[1]').text
+						print(f"Old Symbol: {old_sym}")
+						print(f"Symbol: 	{symbol}")
 
-		with open('ticker_list.csv', mode='a+',newline='') as ticker_file:
-			ticker_writer = csv.writer(ticker_file, delimiter=',', quotechar="'", quoting=csv.QUOTE_MINIMAL)
-			for i in range(0,len(ticker_list)):
-				ticker_writer.writerow([ticker_list[i], name_list[i], cusip_list[i], isin_list[i]])
+					name = driver.find_element_by_xpath('//*[@id="searchtable"]/tbody/tr/td[2]').text
+					isin = driver.find_element_by_xpath('//*[@id="searchtable"]/tbody/tr/td[5]').text
 
-	driver.close()
+					print(f"Old Symbol: {old_sym} Old Name: {old_name}")
+					print(f"Symbol: 	{symbol}  Name:		{name}")
+					
+					
+					old_sym = symbol
+					old_name = name
+					if(':' in symbol):
+						sym_index = symbol.find(':')
+						symbol = symbol[sym_index+1:]
+					if(',' in name):
+						count = name.count(',')
+						name = list(name)
+						for i in range(count):
+							name.remove(',')
+						name = ''.join(name)
+					ticker_list.append(symbol)
+					name_list.append(name)
+					isin_list.append(isin)
+					
+				except:
+					print(f"Could not find {cusip}")
+					
+					cusip_to_remove.append(cusip)
+					
+					with open('failed_ticker_searches.csv', mode='a+',newline='') as ticker_file:
+						ticker_writer = csv.writer(ticker_file, delimiter=',', quotechar="'", quoting=csv.QUOTE_MINIMAL)
+						ticker_writer.writerow([cusip, file_path])
+			print(cusip_list)
+			for cusip in  cusip_to_remove:
+				cusip_list.remove(cusip)
+			print(ticker_list)
+			print(name_list)
+			print(isin_list)
+
+			with open('ticker_list.csv', mode='a+',newline='') as ticker_file:
+				ticker_writer = csv.writer(ticker_file, delimiter=',', quotechar="'", quoting=csv.QUOTE_MINIMAL)
+				for i in range(0,len(ticker_list)):
+					ticker_writer.writerow([ticker_list[i], name_list[i], cusip_list[i], isin_list[i]])
+
+			driver.close()
+			time.sleep(5)
 
 def get_all_stock_files():
 	main_dir = f'.\\13F_filings\\13F_Summary'
@@ -90,6 +120,8 @@ def get_all_stock_files():
 			file_path = os.path.join(parent,file)
 			print(file_path)
 			ticker_lookup(file_path)
+			
 
 if __name__== "__main__":
 	get_all_stock_files()
+	sql_functions.insert_stock_sql()

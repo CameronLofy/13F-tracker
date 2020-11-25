@@ -19,13 +19,15 @@
 -- '2020-11-16',
 -- '2020-09-30');
 
--- DELETE FROM `test_hedgetracker`.`form`
--- WHERE form_id = null;
+-- DELETE FROM `test_hedgetracker`.`stock`
 
-INSERT INTO `test_hedgetracker`.`stock`
-VALUES
-('00287Y109',
-'AbbVie Inc.',
-'ABBV',
-'US00287Y1091')
+
+-- INSERT INTO `test_hedgetracker`.`stock`
+-- VALUES
+-- ('999999999',
+-- 'test fake comapny delete after ',
+-- NULL,
+-- NULL)
+
+
 
