@@ -165,5 +165,28 @@ def insert_form_sql(form_id, hedge_id, file_type, file_date, period_date):
 
 	cnx.close()
 
-def insert_holdings_sql(csv_file):
-	print('Finish code here')
+def insert_holdings_sql(form_id, hedge_id, cusip, shares, value):
+	cnx = mysql.connector.connect(user='root', password='FUnnyMAN97',
+	                              host='127.0.0.1',
+	                              database='test_hedgetracker')
+
+	cursor = cnx.cursor()
+	check_query = (f"SELECT COUNT(*) FROM holdings WHERE form_id = '{form_id}' AND cusip = '{cusip}'")
+
+	cursor.execute(check_query)
+
+	for x in cursor:
+		if(x[0]>0):
+			print("Stock holding already exists")
+
+		else:
+			print(f"Inserting {cusip} ({form_id}) into table...")
+			query = (f"INSERT INTO `test_hedgetracker`.`holdings` VALUES ('{form_id}-{cusip}', '{form_id}', '{hedge_id}', '{cusip}', '{shares}', '{value}')")
+			cursor.execute(query)
+	cnx.commit()
+
+	cursor.close()
+
+
+
+	cnx.close()

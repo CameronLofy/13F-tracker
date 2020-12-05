@@ -29,5 +29,5 @@
 -- NULL,
 -- NULL)
 
-
+-- DELETE FROM `test_hedgetracker`.`holdings`
 

@@ -5,7 +5,7 @@ import requests
 from html_parse import *
 import os
 from lxml import etree
-
+from ticker_lookup import get_holdings_info
 
 from sec_edgar_downloader import Downloader
 
@@ -58,7 +58,7 @@ def get_date_name(url, file_type):
 	cik_index = name_seg.find("CIK") + 5 
 	cik = name_seg[cik_index:cik_index+10]
 
-	sql_functions.insert_hedge_sql(cik, filer_name)
+	#sql_functions.insert_hedge_sql(cik, filer_name)
 
 	sec_acc_num = soup.find('div', id='secNum').get_text()[19:-7]
 	dates = soup.find_all('div', class_='formGrouping')
@@ -67,7 +67,11 @@ def get_date_name(url, file_type):
 		date_list.append(date_object.find('div', class_='info').get_text())
 	print(date_list)
 
-	sql_functions.insert_form_sql(sec_acc_num, cik, file_type, date_list[0], date_list[1])
+	cusip_list, value_list, shares_list = get_holdings_info(cik,date_list[1])
+	for i in range(1,len(cusip_list)):
+		sql_functions.insert_holdings_sql(sec_acc_num, cik, cusip_list[i], shares_list[i], value_list[i])
+
+	#sql_functions.insert_form_sql(sec_acc_num, cik, file_type, date_list[0], date_list[1])
 
 	return cik, filer_name, sec_acc_num
 	#return date, name
@@ -101,6 +105,8 @@ def driver_13f(url):
 				print(link)
 				
 				links[link] = date
+
+
 		if(check_next_page() == False):
 			all_links_done = True
 	print(links)
@@ -115,28 +121,28 @@ def driver_13f(url):
 		driver.get(link)
 
 		get_date_name(link, '13F-HR')
+		
+	# 	table_rows = driver.find_elements_by_tag_name('tr')
+	# 	for item in table_rows:
+	# 		# if(('html' and 'TABLE') in item.text):
+	# 		# 	table_link = item.find_element_by_tag_name('a').get_attribute('href')
+	# 		# 	break
+	# 		# if no html file get the submission text
+	# 		if('Complete submission text file' in item.text):
+	# 			table_link = item.find_element_by_tag_name('a').get_attribute('href')
+	# 			submission = True
+	# 	table_links[table_link] = links[link]
+	# print(table_links)
 
-		table_rows = driver.find_elements_by_tag_name('tr')
-		for item in table_rows:
-			# if(('html' and 'TABLE') in item.text):
-			# 	table_link = item.find_element_by_tag_name('a').get_attribute('href')
-			# 	break
-			# if no html file get the submission text
-			if('Complete submission text file' in item.text):
-				table_link = item.find_element_by_tag_name('a').get_attribute('href')
-				submission = True
-		table_links[table_link] = links[link]
-	print(table_links)
 
-
-	# Now open each table link
-	final_list = []
-	i=0
-	for link in table_links.keys():
-		# Enter date and name values here
-		final_list.append(parse_page(link))
-		i+=1
-	print(final_list)
+	# # Now open each table link
+	# final_list = []
+	# i=0
+	# for link in table_links.keys():
+	# 	# Enter date and name values here
+	# 	final_list.append(parse_page(link))
+	# 	i+=1
+	# print(final_list)
 
 
 	driver.close()
