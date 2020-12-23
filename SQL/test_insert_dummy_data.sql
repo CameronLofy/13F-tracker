@@ -31,3 +31,5 @@
 
 -- DELETE FROM `test_hedgetracker`.`holdings`
 
+-- DELETE FROM `test_hedgetracker`.`stock`
+-- WHERE ticker = 'CUSIP';

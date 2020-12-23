@@ -72,8 +72,11 @@ def test_insert():
 	cnx.close()
 
 def insert_stock_sql():
-	cnx = mysql.connector.connect(user='root', password='FUnnyMAN97',
-	                              host='127.0.0.1',
+	# cnx = mysql.connector.connect(user='root', password='FUnnyMAN97',
+	#                               host='127.0.0.1',
+	#                               database='test_hedgetracker')
+	cnx = mysql.connector.connect(user='camlofy', password='FUnnyMAN97',
+	                              host='database-1.criu5ttpvtnp.us-west-1.rds.amazonaws.com', port='3306',
 	                              database='test_hedgetracker')
 	cursor = cnx.cursor()
 	with open('C:/Programming/HedgeFundTracker/ticker_list.csv', mode='r') as ticker_file:
@@ -116,6 +119,7 @@ def insert_hedge_sql(hedge_id, hedge_name):
 	cnx = mysql.connector.connect(user='root', password='FUnnyMAN97',
 	                              host='127.0.0.1',
 	                              database='test_hedgetracker')
+
 
 	cursor = cnx.cursor()
 	check_query = (f"SELECT COUNT(*) FROM hedge_fund WHERE hedge_id = '{hedge_id}'")
@@ -190,3 +194,137 @@ def insert_holdings_sql(form_id, hedge_id, cusip, shares, value):
 
 
 	cnx.close()
+
+def get_change_sql(hedge_id):
+	cnx = mysql.connector.connect(user='camlofy', password='FUnnyMAN97',
+	                              host='database-1.criu5ttpvtnp.us-west-1.rds.amazonaws.com', database='test_hedgetracker')
+
+	cursor = cnx.cursor()
+
+	date_query = ("SELECT form.period "+
+		"FROM form, hedge_fund "+
+		f"WHERE form.hedge_id = {hedge_id} AND form.hedge_id = hedge_fund.hedge_id "+
+		"ORDER BY form.period DESC LIMIT 2")
+	cursor.execute(date_query)
+	form_dates = []
+	for period in cursor:
+		form_dates.append(period[0])
+
+	
+	stock_list_1 = []
+	stock_list_2 = []
+	for form_date in form_dates:
+		print(form_date)
+		holdings_query = (f"SELECT hedge.hedge_id, s.s_name, s.ticker, h.shares, h.value "+
+			"FROM holdings as h "+
+			"JOIN hedge_fund as hedge "+
+			"ON h.hedge_id = hedge.hedge_id "+
+			"JOIN stock as s ON s.cusip = h.cusip "+
+			"WHERE form_id = "+
+				"(SELECT form_id FROM form "+
+				f"WHERE form.hedge_id = {hedge_id} AND form.period = '{form_date}') "+
+			"ORDER BY s.ticker ASC")
+
+		cursor.execute(holdings_query)
+		if(form_date == form_dates[0]):
+			for row in cursor:
+				stock_list_1.append(row)
+		else:
+			for row in cursor:
+				stock_list_2.append(row)
+	print(stock_list_1)
+	print(stock_list_2)
+
+	final_stock_list = []
+
+
+	i,j=0,0
+	
+	while(i<len(stock_list_1) and j<len(stock_list_2)):
+		stock_row = []
+		if(stock_list_1[i][2] == stock_list_2[j][2]):
+			print(stock_list_1[i][2])
+			print("Changed value")
+
+
+			for n in range(5):
+				stock_row.append(stock_list_1[i][n])
+			diff = stock_list_1[i][3] - stock_list_2[j][3]
+			if(diff>0):
+				stock_row.append(diff)
+				stock_row.append('bought')
+			elif(diff<0):
+				stock_row.append(-diff)
+				stock_row.append('sold')
+			else:
+				stock_row.append(0)
+				stock_row.append('no change')
+
+			i+=1
+			j+=1
+		
+		elif(stock_list_1[i][2] < stock_list_2[j][2]):
+			print(stock_list_1[i][2])
+			print("Bought All New")
+			for n in range(5):
+				stock_row.append(stock_list_1[i][n])
+			stock_row.append(stock_list_1[i][3])
+			stock_row.append("Bought All New")
+			i+=1
+
+		elif(stock_list_1[i][2] > stock_list_2[j][2]):
+			print(stock_list_2[j][2])
+			print("Sold All")
+			for n in range(3):
+				stock_row.append(stock_list_2[j][n])
+			stock_row.append(0)
+			stock_row.append("Sold All")
+
+			j+=1
+		print(f"i: {i}")
+		print(f"j: {j}")
+		final_stock_list.append(stock_row)
+		
+
+	while(i<len(stock_list_1)):
+		stock_row=[]
+		print(stock_list_1[i][2])
+		print("Bought All New")
+		for n in range(5):
+			stock_row.append(stock_list_1[i][n])
+		stock_row.append(stock_list_1[i][3])
+		stock_row.append("Bought All New")
+		i+=1
+		final_stock_list.append(stock_row)
+
+	while(j<len(stock_list_2)):
+		stock_row=[]
+		print(stock_list_2[j][2])
+		print("Sold All")
+		for n in range(3):
+			stock_row.append(stock_list_2[j][n])
+		stock_row.append(0)
+		stock_row.append("Sold All")
+		j+=1
+		final_stock_list.append(stock_row)
+
+	for row in final_stock_list:
+		print(row)
+	cursor.close()
+	cnx.close()
+
+if __name__== "__main__":
+	cnx = mysql.connector.connect(user='camlofy', password='FUnnyMAN97',
+	                              host='database-1.criu5ttpvtnp.us-west-1.rds.amazonaws.com')
+
+	cursor = cnx.cursor()
+
+	query = ("SELECT User, Host from mysql.user")
+
+	cursor.execute(query)
+	for (user, host) in cursor:
+		print(user, host)
+	cursor.close()
+	cnx.close()
+
+	get_change_sql('1067983')

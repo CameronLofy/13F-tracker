@@ -28,3 +28,5 @@ FROM holdings;
 -- RIGHT JOIN stock as s
 -- ON s.CUSIP = h.cusip
 
+SELECT *
+FROM stock;

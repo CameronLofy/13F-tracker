@@ -121,7 +121,7 @@ def driver_13f(url):
 		driver.get(link)
 
 		get_date_name(link, '13F-HR')
-		
+		  
 	# 	table_rows = driver.find_elements_by_tag_name('tr')
 	# 	for item in table_rows:
 	# 		# if(('html' and 'TABLE') in item.text):

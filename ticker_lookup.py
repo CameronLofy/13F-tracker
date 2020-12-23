@@ -77,8 +77,27 @@ def ticker_lookup(file_path):
 					old_sym = symbol
 					old_name = name
 					if(':' in symbol):
-						sym_index = symbol.find(':')
-						symbol = symbol[sym_index+1:]
+						try:
+							body = driver.find_element_by_tag_name('tbody')
+							rows = body.find_elements_by_tag_name('tr')
+							i=1
+							found = False
+							for row in rows:
+								country = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[4]')
+								
+								if(country.text == 'USA'):
+									symbol = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[1]').text
+									name = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[2]').text
+									isin = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[5]').text
+									found = True
+									break
+								i+=1
+							if(found == False):
+								sym_index = symbol.find(':')
+								symbol = symbol[sym_index+1:]
+						except:
+							sym_index = symbol.find(':')
+							symbol = symbol[sym_index+1:]
 					if(',' in name):
 						count = name.count(',')
 						name = list(name)
@@ -147,8 +166,30 @@ def get_holdings_info(cik_to_check, date_to_check):
 							
 
 if __name__== "__main__":
-	# get_all_stock_files()
-	# sql_functions.insert_stock_sql()
+	#get_all_stock_files()
+	sql_functions.insert_stock_sql()
 
-	cusip, share, value = get_holdings_info('0001649339','2020-09-30')
-	print(len(cusip), len(share), len(value))
+	#cusip, share, value = get_holdings_info('0001649339','2020-09-30')
+	#print(len(cusip), len(share), len(value))
+
+	# DRIVER_PATH = 'C:/Programming/chromedriver.exe'
+	# driver = webdriver.Chrome(executable_path=DRIVER_PATH)
+	# driver.get('https://stockmarketmba.com/symbollookupusingidentifier.php')
+	# time.sleep(1)
+	# cusip = '067901108'
+	# driver.find_element_by_xpath('//*[@id="search"]').send_keys(f'{cusip}\n')
+	
+	# body = driver.find_element_by_tag_name('tbody')
+	# rows = body.find_elements_by_tag_name('tr')
+	# i=1
+	# for row in rows:
+	# 	country = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[4]')
+		
+	# 	if(country.text = 'USA'):
+	# 		symbol = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[1]').text
+	# 		name = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[2]').text
+	# 		isin = row.find_element_by_xpath(f'//*[@id="searchtable"]/tbody/tr[{i}]/td[5]').text
+	# 	i+=1
+		# //*[@id="searchtable"]/tbody/tr[1]
+		# //*[@id="searchtable"]/tbody/tr[1]/td[4]
+		# //*[@id="searchtable"]/tbody/tr[2]/td[4]
