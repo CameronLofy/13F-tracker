@@ -12,6 +12,22 @@ from sec_edgar_downloader import Downloader
 from SQL import test_mysql_connection as sql_functions
 
 
+#driver.get('https://www.sec.gov/Archives/edgar/data/1067983')
+'''
+all_rows = driver.find_elements_by_tag_name('tr')
+hrefs = []
+count=0
+for row in all_rows:
+	if(count==0):
+		count+=1
+	else:
+		hrefs.append(row.find_element_by_tag_name('a'))
+print(len(hrefs))
+print(hrefs[1])
+hrefs[1].click()
+time.sleep(3)
+driver.close()
+'''
 def check_next_page():
 	try:
 		next_page_button_box = driver.find_element_by_xpath('//*[@id="contentDiv"]/div[3]/form/table/tbody/tr/td[2]')
@@ -105,9 +121,34 @@ def driver_13f(url):
 		driver.get(link)
 
 		get_date_name(link, '13F-HR')
+		  
+	# 	table_rows = driver.find_elements_by_tag_name('tr')
+	# 	for item in table_rows:
+	# 		# if(('html' and 'TABLE') in item.text):
+	# 		# 	table_link = item.find_element_by_tag_name('a').get_attribute('href')
+	# 		# 	break
+	# 		# if no html file get the submission text
+	# 		if('Complete submission text file' in item.text):
+	# 			table_link = item.find_element_by_tag_name('a').get_attribute('href')
+	# 			submission = True
+	# 	table_links[table_link] = links[link]
+	# print(table_links)
+
+
+	# # Now open each table link
+	# final_list = []
+	# i=0
+	# for link in table_links.keys():
+	# 	# Enter date and name values here
+	# 	final_list.append(parse_page(link))
+	# 	i+=1
+	# print(final_list)
+
 
 	driver.close()
-
+	# row = driver.find_element_by_xpath('//*[@id="seriesDiv"]/table/tbody/tr[2]').text
+	# print(row)
+	#//*[@id="seriesDiv"]/table/tbody/tr[3]/td[1]
 
 def downloader_13F(CIK):
 	dl = Downloader("./13F_filings/Downloads")

@@ -16,7 +16,7 @@ def test_insert():
 	for (form_id, hedge_id, f_type, f_date, period) in cursor:
 		print(form_id, hedge_id, f_type, f_date, period)
 
-	with open('C:/Programming/HedgeFundTracker/ticker_list.csv', mode='r') as ticker_file:
+	with open('C:/Programming/HedgeFundTracker/data_parse/ticker_list.csv', mode='r') as ticker_file:
 		ticker_reader = csv.reader(ticker_file)
 		for row in ticker_reader:
 			ticker = row[0]
@@ -44,7 +44,7 @@ def test_insert():
 					cursor.execute(insert_stock_query)
 
 
-	with open('C:/Programming/HedgeFundTracker/failed_ticker_searches.csv', mode='r') as ticker_file:
+	with open('C:/Programming/HedgeFundTracker/data_parse/failed_ticker_searches.csv', mode='r') as ticker_file:
 		ticker_reader = csv.reader(ticker_file)
 		for row in ticker_reader:
 			cusip = row[0]
@@ -79,7 +79,7 @@ def insert_stock_sql():
 	                              host='database-1.criu5ttpvtnp.us-west-1.rds.amazonaws.com', port='3306',
 	                              database='test_hedgetracker')
 	cursor = cnx.cursor()
-	with open('C:/Programming/HedgeFundTracker/ticker_list.csv', mode='r') as ticker_file:
+	with open('C:/Programming/HedgeFundTracker/data_parse/ticker_list.csv', mode='r') as ticker_file:
 		ticker_reader = csv.reader(ticker_file)
 		for row in ticker_reader:
 			ticker = row[0]
