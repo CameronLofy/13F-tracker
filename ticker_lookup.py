@@ -166,7 +166,7 @@ def get_holdings_info(cik_to_check, date_to_check):
 							
 
 if __name__== "__main__":
-	#get_all_stock_files()
+	get_all_stock_files()
 	sql_functions.insert_stock_sql()
 
 	#cusip, share, value = get_holdings_info('0001649339','2020-09-30')
@@ -193,3 +193,6 @@ if __name__== "__main__":
 		# //*[@id="searchtable"]/tbody/tr[1]
 		# //*[@id="searchtable"]/tbody/tr[1]/td[4]
 		# //*[@id="searchtable"]/tbody/tr[2]/td[4]
+
+	n = 'T400X'
+	print(n.zfill(9))

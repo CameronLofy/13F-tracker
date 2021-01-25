@@ -37,16 +37,30 @@ use test_hedgetracker;
 -- ORDER BY s.s_name ASC;
 
 
-SELECT hedge.h_name, s.s_name, s.ticker, h.shares, h.value
+-- SELECT hedge.h_name, s.s_name, s.ticker, h.shares, h.value
+-- FROM holdings as h
+-- JOIN hedge_fund as hedge
+-- ON h.hedge_id = hedge.hedge_id
+-- JOIN stock as s
+-- ON h.cusip = s.cusip
+-- WHERE form_id = (
+-- 	SELECT form_id
+-- 	FROM form
+-- 	WHERE form.hedge_id = 1067983 AND form.period = 
+-- 		'2020-09-30'
+-- 	)
+-- ORDER BY s.s_name ASC;
+
+
+SELECT *
 FROM holdings as h
 JOIN hedge_fund as hedge
-ON h.hedge_id = hedge.hedge_id
-JOIN stock as s
-ON s.cusip = h.cusip
-WHERE form_id = (
+ON hedge.hedge_id = h.hedge_id
+JOIN stock
+ON h.cusip = stock.cusip
+WHERE h.form_id = (
 	SELECT form_id
 	FROM form
 	WHERE form.hedge_id = 1067983 AND form.period = 
-		'2020-06-30'
+		'2020-09-30'
 	)
-ORDER BY s.s_name ASC

@@ -86,7 +86,7 @@ def insert_stock_sql():
 			name = row[1]
 			cusip = row[2]
 			isin = row[3]
-
+			cusip = cusip.zfill(9)
 			print(ticker, name, cusip, isin)
 
 			
@@ -116,8 +116,8 @@ def insert_stock_sql():
 
 
 def insert_hedge_sql(hedge_id, hedge_name):
-	cnx = mysql.connector.connect(user='root', password='FUnnyMAN97',
-	                              host='127.0.0.1',
+	cnx = mysql.connector.connect(user='camlofy', password='FUnnyMAN97',
+	                              host='database-1.criu5ttpvtnp.us-west-1.rds.amazonaws.com', port='3306',
 	                              database='test_hedgetracker')
 
 
@@ -328,3 +328,7 @@ if __name__== "__main__":
 	cnx.close()
 
 	get_change_sql('1067983')
+	# hedge_id_list = ['0001067983', '0001096343', '0001166559', '0001079114', '0001649339', '0001336528']
+	# hedge_name_list = ['BERKSHIRE HATHAWAY INC', 'MARKEL CORP', 'BILL & MELINDA GATES FOUNDATION TRUST', 'GREENLIGHT CAPITAL INC', 'Scion Asset Management, LLC', 'Pershing Square Capital Management, L.P.']
+	# for i in range(len(hedge_id_list)):
+	# 	insert_hedge_sql(hedge_id_list[i], hedge_name_list[i])

@@ -58,7 +58,7 @@ def get_date_name(url, file_type):
 	cik_index = name_seg.find("CIK") + 5 
 	cik = name_seg[cik_index:cik_index+10]
 
-	#sql_functions.insert_hedge_sql(cik, filer_name)
+	sql_functions.insert_hedge_sql(cik, filer_name)
 
 	sec_acc_num = soup.find('div', id='secNum').get_text()[19:-7]
 	dates = soup.find_all('div', class_='formGrouping')
